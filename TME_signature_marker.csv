@@ -1,0 +1,4526 @@
+Metagene,Cell type
+CD28,T cells
+CD3D,T cells
+CD3E,T cells
+CD3G,T cells
+CD5,T cells
+ITK,T cells
+TBX21,T cells
+TRAC,T cells
+TRAT1,T cells
+TRBC1,T cells
+TRBC2,T cells
+CD160,NK cells
+CD226,NK cells
+CD244,NK cells
+EOMES,NK cells
+FGFBP2,NK cells
+GNLY,NK cells
+GZMB,NK cells
+GZMH,NK cells
+IFNG,NK cells
+KIR2DL4,NK cells
+KLRC2,NK cells
+KLRF1,NK cells
+KLRK1,NK cells
+NCR1,NK cells
+NCR3,NK cells
+NKG7,NK cells
+SH2D1B,NK cells
+CD8A,Effector cells
+CD8B,Effector cells
+EOMES,Effector cells
+FASLG,Effector cells
+GNLY,Effector cells
+GZMA,Effector cells
+GZMB,Effector cells
+GZMK,Effector cells
+IFNG,Effector cells
+PRF1,Effector cells
+TBX21,Effector cells
+ZAP70,Effector cells
+BLK,B cells
+CD19,B cells
+CD22,B cells
+CD79A,B cells
+CD79B,B cells
+CR2,B cells
+FCRL5,B cells
+MS4A1,B cells
+PAX5,B cells
+STAP1,B cells
+TNFRSF13B,B cells
+TNFRSF13C,B cells
+TNFRSF17,B cells
+CD40LG,Th1 cells
+IFNG,Th1 cells
+IL12RB2,Th1 cells
+IL2,Th1 cells
+IL21,Th1 cells
+STAT4,Th1 cells
+TBX21,Th1 cells
+CCR4,Th2 cells
+IL10,Th2 cells
+IL13,Th2 cells
+IL4,Th2 cells
+IL5,Th2 cells
+ABP1,Th17 cells
+B4GALNT4,Th17 cells
+C2CD4A,Th17 cells
+C2CD4B,Th17 cells
+CA2,Th17 cells
+CCDC65,Th17 cells
+CEACAM3,Th17 cells
+CHRM3,Th17 cells
+DOC2B,Th17 cells
+F12,Th17 cells
+FURIN,Th17 cells
+GPR25,Th17 cells
+IL17A,Th17 cells
+IL17C,Th17 cells
+IL17F,Th17 cells
+IL17RC,Th17 cells
+IL17RE,Th17 cells
+IL23A,Th17 cells
+ILDR1,Th17 cells
+LONRF3,Th17 cells
+LTK,Th17 cells
+MOCOS,Th17 cells
+SH2D6,Th17 cells
+TNIP2,Th17 cells
+TRAF3IP2,Th17 cells
+YBX2,Th17 cells
+CCR8,Treg cells
+CTLA4,Treg cells
+FOXP3,Treg cells
+IKZF2,Treg cells
+IKZF4,Treg cells
+IL10,Treg cells
+TNFRSF18,Treg cells
+PDCD1,Tfh cells
+CXCL13,Tfh cells
+CXCR5,Tfh cells
+CMKLR1,M1 macrophages
+IL12A,M1 macrophages
+IL12B,M1 macrophages
+IL1B,M1 macrophages
+IL23A,M1 macrophages
+IRF5,M1 macrophages
+NOS2,M1 macrophages
+SOCS3,M1 macrophages
+TNF,M1 macrophages
+CD163,M2 macrophages
+CD68,M2 macrophages
+CSF1R,M2 macrophages
+IL10,M2 macrophages
+IL4I1,M2 macrophages
+MRC1,M2 macrophages
+MSR1,M2 macrophages
+SIGLEC1,M2 macrophages
+CCL17,DCs
+CCL22,DCs
+CD209,DCs
+CCL13,DCs
+CD83,aDCs
+LAMP3,aDCs
+CCL1,aDCs
+CD1A,iDCs
+CD1E,iDCs
+CLEC4C,pDCs
+CXCR3,pDCs
+GZMB,pDCs
+IL3RA,pDCs
+IRF7,pDCs
+IRF8,pDCs
+LILRA4,pDCs
+PHEX,pDCs
+PLD4,pDCs
+PTCRA,pDCs
+ARG1,MDSCs
+CYBB,MDSCs
+IDO1,MDSCs
+IL10,MDSCs
+IL4I1,MDSCs
+IL6,MDSCs
+PTGS2,MDSCs
+CD177,Neutrophils
+CTSG,Neutrophils
+CXCR1,Neutrophils
+CXCR2,Neutrophils
+ELANE,Neutrophils
+FCGR3B,Neutrophils
+FFAR2,Neutrophils
+MPO,Neutrophils
+PGLYRP1,Neutrophils
+PRTN3,Neutrophils
+CMA1,Mast cells
+MS4A2,Mast cells
+TPSAB1,Mast cells
+BTLA,T cell co inhibition
+C10orf54,T cell co inhibition
+CD160,T cell co inhibition
+CD244,T cell co inhibition
+CD274,T cell co inhibition
+CTLA4,T cell co inhibition
+HAVCR2,T cell co inhibition
+LAG3,T cell co inhibition
+LAIR1,T cell co inhibition
+TIGIT,T cell co inhibition
+CD2,T cell co stimulation
+CD226,T cell co stimulation
+CD27,T cell co stimulation
+CD28,T cell co stimulation
+CD40LG,T cell co stimulation
+ICOS,T cell co stimulation
+SLAMF1,T cell co stimulation
+TNFRSF18,T cell co stimulation
+TNFRSF25,T cell co stimulation
+TNFRSF4,T cell co stimulation
+TNFRSF8,T cell co stimulation
+TNFRSF9,T cell co stimulation
+TNFSF14,T cell co stimulation
+ARL4C,Cancer Stem Cells
+ASCL2,Cancer Stem Cells
+ASRGL1,Cancer Stem Cells
+BCL2,Cancer Stem Cells
+BEX1,Cancer Stem Cells
+BEX4,Cancer Stem Cells
+C13ORF15,Cancer Stem Cells
+CBS,Cancer Stem Cells
+CD44,Cancer Stem Cells
+CENPF,Cancer Stem Cells
+CHST11,Cancer Stem Cells
+CYP11A1,Cancer Stem Cells
+CYP2E1,Cancer Stem Cells
+DCLK1,Cancer Stem Cells
+E330027M22RIK,Cancer Stem Cells
+EPHB3,Cancer Stem Cells
+ESAM,Cancer Stem Cells
+FAM49A,Cancer Stem Cells
+FSTL1,Cancer Stem Cells
+FZD2,Cancer Stem Cells
+HEBP2,Cancer Stem Cells
+IGFBP4,Cancer Stem Cells
+KIF26B,Cancer Stem Cells
+KLHL8,Cancer Stem Cells
+LFNG,Cancer Stem Cells
+LGR5,Cancer Stem Cells
+LIMCH1,Cancer Stem Cells
+MARVELD1,Cancer Stem Cells
+MEX3A,Cancer Stem Cells
+MPP3,Cancer Stem Cells
+NAV1,Cancer Stem Cells
+PCDH8,Cancer Stem Cells
+PHGDH,Cancer Stem Cells
+PRICKLE1,Cancer Stem Cells
+PSRC1,Cancer Stem Cells
+PTHLH,Cancer Stem Cells
+PTPRO,Cancer Stem Cells
+PVT1,Cancer Stem Cells
+PXDN,Cancer Stem Cells
+RASSF5,Cancer Stem Cells
+SCN2B,Cancer Stem Cells
+SLC14A1,Cancer Stem Cells
+SLC1A2,Cancer Stem Cells
+SLCO3A1,Cancer Stem Cells
+SOAT1,Cancer Stem Cells
+SORCS2,Cancer Stem Cells
+ST3GAL3,Cancer Stem Cells
+TACC1,Cancer Stem Cells
+TEAD2,Cancer Stem Cells
+TGIF2,Cancer Stem Cells
+TUBB2B,Cancer Stem Cells
+VAV3,Cancer Stem Cells
+CTNNB1,Mesenchymal stem cell
+FZD1,Mesenchymal stem cell
+GSK3B,Mesenchymal stem cell
+LTBP3,Mesenchymal stem cell
+MIR346,Mesenchymal stem cell
+PDGFRA,Mesenchymal stem cell
+REST,Mesenchymal stem cell
+SLC4A11,Mesenchymal stem cell
+SOX5,Mesenchymal stem cell
+SOX6,Mesenchymal stem cell
+SOX9,Mesenchymal stem cell
+WNT3,Mesenchymal stem cell
+ACVR1,Mesenchymal cell
+ADAM15,Mesenchymal cell
+ADIPOR1,Mesenchymal cell
+AKNA,Mesenchymal cell
+ALDH1A2,Mesenchymal cell
+ALX1,Mesenchymal cell
+AMELX,Mesenchymal cell
+AMER1,Mesenchymal cell
+ANXA6,Mesenchymal cell
+AXIN2,Mesenchymal cell
+BAMBI,Mesenchymal cell
+BCL2,Mesenchymal cell
+BCL9L,Mesenchymal cell
+BMP2,Mesenchymal cell
+BMP4,Mesenchymal cell
+BMP5,Mesenchymal cell
+BMP7,Mesenchymal cell
+BMPR1A,Mesenchymal cell
+CDH2,Mesenchymal cell
+CLASP1,Mesenchymal cell
+CLASP2,Mesenchymal cell
+COL1A1,Mesenchymal cell
+CORO1C,Mesenchymal cell
+CRB2,Mesenchymal cell
+CTNNB1,Mesenchymal cell
+CUL7,Mesenchymal cell
+CYP26C1,Mesenchymal cell
+DAB2,Mesenchymal cell
+DAB2IP,Mesenchymal cell
+DACT3,Mesenchymal cell
+DAG1,Mesenchymal cell
+DDX17,Mesenchymal cell
+DDX5,Mesenchymal cell
+DLG5,Mesenchymal cell
+EDN1,Mesenchymal cell
+EDN3,Mesenchymal cell
+EDNRA,Mesenchymal cell
+EDNRB,Mesenchymal cell
+EFNA1,Mesenchymal cell
+EFNB1,Mesenchymal cell
+ELL3,Mesenchymal cell
+ENG,Mesenchymal cell
+EOMES,Mesenchymal cell
+EPB41L5,Mesenchymal cell
+EPHA3,Mesenchymal cell
+ERBB4,Mesenchymal cell
+EXT1,Mesenchymal cell
+EZH2,Mesenchymal cell
+FAM172A,Mesenchymal cell
+FAM83D,Mesenchymal cell
+FBXL17,Mesenchymal cell
+FERMT2,Mesenchymal cell
+FGF10,Mesenchymal cell
+FGF8,Mesenchymal cell
+FGFR1,Mesenchymal cell
+FGFR2,Mesenchymal cell
+FLNA,Mesenchymal cell
+FN1,Mesenchymal cell
+FOLR1,Mesenchymal cell
+FOXA1,Mesenchymal cell
+FOXA2,Mesenchymal cell
+FOXC1,Mesenchymal cell
+FOXC2,Mesenchymal cell
+FOXF2,Mesenchymal cell
+FRZB,Mesenchymal cell
+FUZ,Mesenchymal cell
+GATA3,Mesenchymal cell
+GATA5,Mesenchymal cell
+GBX2,Mesenchymal cell
+GCNT2,Mesenchymal cell
+GDNF,Mesenchymal cell
+GLIPR2,Mesenchymal cell
+GREM1,Mesenchymal cell
+GSC,Mesenchymal cell
+GSK3B,Mesenchymal cell
+HAND2,Mesenchymal cell
+HAS2,Mesenchymal cell
+HDAC2,Mesenchymal cell
+HES1,Mesenchymal cell
+HEY1,Mesenchymal cell
+HEY2,Mesenchymal cell
+HEYL,Mesenchymal cell
+HGF,Mesenchymal cell
+HIF1A,Mesenchymal cell
+HMGA2,Mesenchymal cell
+HNRNPAB,Mesenchymal cell
+HPN,Mesenchymal cell
+HTR2B,Mesenchymal cell
+IL17RD,Mesenchymal cell
+IL1B,Mesenchymal cell
+IL6,Mesenchymal cell
+ISL1,Mesenchymal cell
+JAG1,Mesenchymal cell
+KBTBD8,Mesenchymal cell
+KITLG,Mesenchymal cell
+KLHL12,Mesenchymal cell
+LAMA5,Mesenchymal cell
+LDLRAD4,Mesenchymal cell
+LEF1,Mesenchymal cell
+LOXL2,Mesenchymal cell
+LOXL3,Mesenchymal cell
+LRP6,Mesenchymal cell
+MAD2L2,Mesenchymal cell
+MAPK1,Mesenchymal cell
+MAPK3,Mesenchymal cell
+MCRIP1,Mesenchymal cell
+MDK,Mesenchymal cell
+MEF2C,Mesenchymal cell
+MIR144,Mesenchymal cell
+MIR149,Mesenchymal cell
+MIR21,Mesenchymal cell
+MIR221,Mesenchymal cell
+MIR222,Mesenchymal cell
+MIR29B1,Mesenchymal cell
+MIR342,Mesenchymal cell
+MIR573,Mesenchymal cell
+MIR590,Mesenchymal cell
+MSX1,Mesenchymal cell
+MTOR,Mesenchymal cell
+NKX2-1,Mesenchymal cell
+NOG,Mesenchymal cell
+NOLC1,Mesenchymal cell
+NOTCH1,Mesenchymal cell
+NOTCH4,Mesenchymal cell
+NRG1,Mesenchymal cell
+NRP1,Mesenchymal cell
+NRP2,Mesenchymal cell
+NRTN,Mesenchymal cell
+OLFM1,Mesenchymal cell
+OSR1,Mesenchymal cell
+OVOL2,Mesenchymal cell
+PAX2,Mesenchymal cell
+PBLD,Mesenchymal cell
+PDCD4,Mesenchymal cell
+PDCD6,Mesenchymal cell
+PDPN,Mesenchymal cell
+PEF1,Mesenchymal cell
+PHACTR4,Mesenchymal cell
+PHLDB1,Mesenchymal cell
+PHLDB2,Mesenchymal cell
+PHOX2B,Mesenchymal cell
+PITX2,Mesenchymal cell
+POFUT2,Mesenchymal cell
+PPP2CA,Mesenchymal cell
+PTEN,Mesenchymal cell
+RADIL,Mesenchymal cell
+RANBP3L,Mesenchymal cell
+RBPJ,Mesenchymal cell
+RDH10,Mesenchymal cell
+RET,Mesenchymal cell
+RFLNB,Mesenchymal cell
+RGCC,Mesenchymal cell
+RTN4,Mesenchymal cell
+S100A4,Mesenchymal cell
+SDCBP,Mesenchymal cell
+SDHAF2,Mesenchymal cell
+SEMA3A,Mesenchymal cell
+SEMA3B,Mesenchymal cell
+SEMA3C,Mesenchymal cell
+SEMA3D,Mesenchymal cell
+SEMA3E,Mesenchymal cell
+SEMA3F,Mesenchymal cell
+SEMA3G,Mesenchymal cell
+SEMA4A,Mesenchymal cell
+SEMA4B,Mesenchymal cell
+SEMA4C,Mesenchymal cell
+SEMA4D,Mesenchymal cell
+SEMA4F,Mesenchymal cell
+SEMA4G,Mesenchymal cell
+SEMA5A,Mesenchymal cell
+SEMA5B,Mesenchymal cell
+SEMA6A,Mesenchymal cell
+SEMA6B,Mesenchymal cell
+SEMA6C,Mesenchymal cell
+SEMA6D,Mesenchymal cell
+SEMA7A,Mesenchymal cell
+SERPINB3,Mesenchymal cell
+SFRP1,Mesenchymal cell
+SFRP2,Mesenchymal cell
+SHH,Mesenchymal cell
+SIX2,Mesenchymal cell
+SMAD2,Mesenchymal cell
+SMAD3,Mesenchymal cell
+SMAD4,Mesenchymal cell
+SMAD7,Mesenchymal cell
+SMO,Mesenchymal cell
+SNAI1,Mesenchymal cell
+SNAI2,Mesenchymal cell
+SOX10,Mesenchymal cell
+SOX11,Mesenchymal cell
+SOX8,Mesenchymal cell
+SOX9,Mesenchymal cell
+SPRED1,Mesenchymal cell
+SPRED2,Mesenchymal cell
+SPRED3,Mesenchymal cell
+SPRY1,Mesenchymal cell
+SPRY2,Mesenchymal cell
+STAT1,Mesenchymal cell
+STRAP,Mesenchymal cell
+TAPT1,Mesenchymal cell
+TASOR,Mesenchymal cell
+TBX1,Mesenchymal cell
+TBX5,Mesenchymal cell
+TCF21,Mesenchymal cell
+TCF7L2,Mesenchymal cell
+TCOF1,Mesenchymal cell
+TGFB1,Mesenchymal cell
+TGFB1I1,Mesenchymal cell
+TGFB2,Mesenchymal cell
+TGFB3,Mesenchymal cell
+TGFBR1,Mesenchymal cell
+TGFBR2,Mesenchymal cell
+TGFBR3,Mesenchymal cell
+TGFBR3L,Mesenchymal cell
+TIAM1,Mesenchymal cell
+TMEM100,Mesenchymal cell
+TRIM28,Mesenchymal cell
+TRIM62,Mesenchymal cell
+TWIST1,Mesenchymal cell
+USF3,Mesenchymal cell
+VASN,Mesenchymal cell
+WNT10A,Mesenchymal cell
+WNT11,Mesenchymal cell
+WNT16,Mesenchymal cell
+WNT2,Mesenchymal cell
+WNT4,Mesenchymal cell
+WNT5A,Mesenchymal cell
+WNT8A,Mesenchymal cell
+WWTR1,Mesenchymal cell
+ZNF703,Mesenchymal cell
+ZNF750,Mesenchymal cell
+BASP1,Endothelium
+BMP4,Endothelium
+CITED1,Endothelium
+CTNNB1,Endothelium
+FZD7,Endothelium
+GATA3,Endothelium
+GDNF,Endothelium
+GREM1,Endothelium
+LIF,Endothelium
+PAX2,Endothelium
+PAX8,Endothelium
+PELO,Endothelium
+SALL1,Endothelium
+SIX2,Endothelium
+SMO,Endothelium
+STAT1,Endothelium
+TCF15,Endothelium
+WNT4,Endothelium
+WNT9B,Endothelium
+WT1,Endothelium
+ZEB1,EMT
+ZEB2,EMT
+TCF4,EMT
+AXL,EMT
+CDH1,EMT
+CDH3,EMT
+VIM,EMT
+CDH2,EMT
+CDH4,EMT
+A2M,ECM
+ACAN,ECM
+ACTN1,ECM
+ADAM10,ECM
+ADAM12,ECM
+ADAM15,ECM
+ADAM17,ECM
+ADAM19,ECM
+ADAM8,ECM
+ADAM9,ECM
+ADAMTS1,ECM
+ADAMTS14,ECM
+ADAMTS16,ECM
+ADAMTS18,ECM
+ADAMTS2,ECM
+ADAMTS3,ECM
+ADAMTS4,ECM
+ADAMTS5,ECM
+ADAMTS8,ECM
+ADAMTS9,ECM
+AGRN,ECM
+APP,ECM
+ASPN,ECM
+BCAN,ECM
+BGN,ECM
+BMP1,ECM
+BMP10,ECM
+BMP2,ECM
+BMP4,ECM
+BMP7,ECM
+BSG,ECM
+CAPN1,ECM
+CAPN10,ECM
+CAPN11,ECM
+CAPN12,ECM
+CAPN13,ECM
+CAPN14,ECM
+CAPN15,ECM
+CAPN2,ECM
+CAPN3,ECM
+CAPN5,ECM
+CAPN6,ECM
+CAPN7,ECM
+CAPN8,ECM
+CAPN9,ECM
+CAPNS1,ECM
+CAPNS2,ECM
+CASK,ECM
+CASP3,ECM
+CAST,ECM
+CD151,ECM
+CD44,ECM
+CD47,ECM
+CDH1,ECM
+CEACAM1,ECM
+CEACAM6,ECM
+CEACAM8,ECM
+CMA1,ECM
+COL10A1,ECM
+COL11A1,ECM
+COL11A2,ECM
+COL12A1,ECM
+COL13A1,ECM
+COL14A1,ECM
+COL15A1,ECM
+COL16A1,ECM
+COL17A1,ECM
+COL18A1,ECM
+COL19A1,ECM
+COL1A1,ECM
+COL1A2,ECM
+COL20A1,ECM
+COL21A1,ECM
+COL22A1,ECM
+COL23A1,ECM
+COL24A1,ECM
+COL25A1,ECM
+COL26A1,ECM
+COL27A1,ECM
+COL28A1,ECM
+COL2A1,ECM
+COL3A1,ECM
+COL4A1,ECM
+COL4A2,ECM
+COL4A3,ECM
+COL4A4,ECM
+COL4A5,ECM
+COL4A6,ECM
+COL5A1,ECM
+COL5A2,ECM
+COL5A3,ECM
+COL6A1,ECM
+COL6A2,ECM
+COL6A3,ECM
+COL6A5,ECM
+COL6A6,ECM
+COL7A1,ECM
+COL8A1,ECM
+COL8A2,ECM
+COL9A1,ECM
+COL9A2,ECM
+COL9A3,ECM
+COLGALT1,ECM
+COLGALT2,ECM
+COMP,ECM
+CRTAP,ECM
+CTRB1,ECM
+CTRB2,ECM
+CTSB,ECM
+CTSD,ECM
+CTSG,ECM
+CTSK,ECM
+CTSL,ECM
+CTSS,ECM
+CTSV,ECM
+DAG1,ECM
+DCN,ECM
+DDR1,ECM
+DDR2,ECM
+DMD,ECM
+DMP1,ECM
+DSPP,ECM
+DST,ECM
+EFEMP1,ECM
+EFEMP2,ECM
+ELANE,ECM
+ELN,ECM
+EMILIN1,ECM
+EMILIN2,ECM
+EMILIN3,ECM
+F11R,ECM
+FBLN1,ECM
+FBLN2,ECM
+FBLN5,ECM
+FBN1,ECM
+FBN2,ECM
+FBN3,ECM
+FGA,ECM
+FGB,ECM
+FGF2,ECM
+FGG,ECM
+FMOD,ECM
+FN1,ECM
+FURIN,ECM
+GDF5,ECM
+HAPLN1,ECM
+HSPG2,ECM
+HTRA1,ECM
+IBSP,ECM
+ICAM1,ECM
+ICAM2,ECM
+ICAM3,ECM
+ICAM4,ECM
+ICAM5,ECM
+ITGA1,ECM
+ITGA10,ECM
+ITGA11,ECM
+ITGA2,ECM
+ITGA2B,ECM
+ITGA3,ECM
+ITGA4,ECM
+ITGA5,ECM
+ITGA6,ECM
+ITGA7,ECM
+ITGA8,ECM
+ITGA9,ECM
+ITGAD,ECM
+ITGAE,ECM
+ITGAL,ECM
+ITGAM,ECM
+ITGAV,ECM
+ITGAX,ECM
+ITGB1,ECM
+ITGB2,ECM
+ITGB3,ECM
+ITGB4,ECM
+ITGB5,ECM
+ITGB6,ECM
+ITGB7,ECM
+ITGB8,ECM
+JAM2,ECM
+JAM3,ECM
+KDR,ECM
+KLK2,ECM
+KLK7,ECM
+KLKB1,ECM
+LAMA1,ECM
+LAMA2,ECM
+LAMA3,ECM
+LAMA4,ECM
+LAMA5,ECM
+LAMB1,ECM
+LAMB2,ECM
+LAMB3,ECM
+LAMC1,ECM
+LAMC2,ECM
+LAMC3,ECM
+LOX,ECM
+LOXL1,ECM
+LOXL2,ECM
+LOXL3,ECM
+LOXL4,ECM
+LRP4,ECM
+LTBP1,ECM
+LTBP2,ECM
+LTBP3,ECM
+LTBP4,ECM
+LUM,ECM
+MADCAM1,ECM
+MATN1,ECM
+MATN3,ECM
+MATN4,ECM
+MFAP1,ECM
+MFAP2,ECM
+MFAP3,ECM
+MFAP4,ECM
+MFAP5,ECM
+MMP1,ECM
+MMP10,ECM
+MMP11,ECM
+MMP12,ECM
+MMP13,ECM
+MMP14,ECM
+MMP15,ECM
+MMP16,ECM
+MMP17,ECM
+MMP19,ECM
+MMP2,ECM
+MMP20,ECM
+MMP24,ECM
+MMP25,ECM
+MMP3,ECM
+MMP7,ECM
+MMP8,ECM
+MMP9,ECM
+MUSK,ECM
+NCAM1,ECM
+NCAN,ECM
+NCSTN,ECM
+NID1,ECM
+NID2,ECM
+NRXN1,ECM
+NTN4,ECM
+OPTC,ECM
+P3H1,ECM
+P3H2,ECM
+P3H3,ECM
+P4HA1,ECM
+P4HA2,ECM
+P4HA3,ECM
+P4HB,ECM
+PCOLCE,ECM
+PCOLCE2,ECM
+PDGFA,ECM
+PDGFB,ECM
+PECAM1,ECM
+PHYKPL,ECM
+PLEC,ECM
+PLG,ECM
+PLOD1,ECM
+PLOD2,ECM
+PLOD3,ECM
+PPIB,ECM
+PRKCA,ECM
+PRSS1,ECM
+PRSS2,ECM
+PSEN1,ECM
+PTPRS,ECM
+PXDN,ECM
+SCUBE1,ECM
+SCUBE3,ECM
+SDC1,ECM
+SDC2,ECM
+SDC3,ECM
+SDC4,ECM
+SERPINE1,ECM
+SERPINH1,ECM
+SH3PXD2A,ECM
+SPARC,ECM
+SPOCK3,ECM
+SPP1,ECM
+TGFB1,ECM
+TGFB2,ECM
+TGFB3,ECM
+THBS1,ECM
+TIMP1,ECM
+TIMP2,ECM
+TLL1,ECM
+TLL2,ECM
+TMPRSS6,ECM
+TNC,ECM
+TNN,ECM
+TNR,ECM
+TNXB,ECM
+TPSAB1,ECM
+TRAPPC4,ECM
+TTR,ECM
+VCAM1,ECM
+VCAN,ECM
+VTN,ECM
+VWF,ECM
+A2M,Matrix remodeling
+ACAN,Matrix remodeling
+ADAM10,Matrix remodeling
+ADAM15,Matrix remodeling
+ADAM17,Matrix remodeling
+ADAM8,Matrix remodeling
+ADAM9,Matrix remodeling
+ADAMTS1,Matrix remodeling
+ADAMTS16,Matrix remodeling
+ADAMTS18,Matrix remodeling
+ADAMTS4,Matrix remodeling
+ADAMTS5,Matrix remodeling
+ADAMTS8,Matrix remodeling
+ADAMTS9,Matrix remodeling
+BCAN,Matrix remodeling
+BMP1,Matrix remodeling
+BSG,Matrix remodeling
+CAPN1,Matrix remodeling
+CAPN10,Matrix remodeling
+CAPN11,Matrix remodeling
+CAPN12,Matrix remodeling
+CAPN13,Matrix remodeling
+CAPN14,Matrix remodeling
+CAPN15,Matrix remodeling
+CAPN2,Matrix remodeling
+CAPN3,Matrix remodeling
+CAPN5,Matrix remodeling
+CAPN6,Matrix remodeling
+CAPN7,Matrix remodeling
+CAPN8,Matrix remodeling
+CAPN9,Matrix remodeling
+CAPNS1,Matrix remodeling
+CAPNS2,Matrix remodeling
+CASP3,Matrix remodeling
+CAST,Matrix remodeling
+CD44,Matrix remodeling
+CDH1,Matrix remodeling
+CMA1,Matrix remodeling
+COL10A1,Matrix remodeling
+COL11A1,Matrix remodeling
+COL11A2,Matrix remodeling
+COL12A1,Matrix remodeling
+COL13A1,Matrix remodeling
+COL14A1,Matrix remodeling
+COL15A1,Matrix remodeling
+COL16A1,Matrix remodeling
+COL17A1,Matrix remodeling
+COL18A1,Matrix remodeling
+COL19A1,Matrix remodeling
+COL1A1,Matrix remodeling
+COL1A2,Matrix remodeling
+COL23A1,Matrix remodeling
+COL25A1,Matrix remodeling
+COL26A1,Matrix remodeling
+COL2A1,Matrix remodeling
+COL3A1,Matrix remodeling
+COL4A1,Matrix remodeling
+COL4A2,Matrix remodeling
+COL4A3,Matrix remodeling
+COL4A4,Matrix remodeling
+COL4A5,Matrix remodeling
+COL4A6,Matrix remodeling
+COL5A1,Matrix remodeling
+COL5A2,Matrix remodeling
+COL5A3,Matrix remodeling
+COL6A1,Matrix remodeling
+COL6A2,Matrix remodeling
+COL6A3,Matrix remodeling
+COL6A5,Matrix remodeling
+COL6A6,Matrix remodeling
+COL7A1,Matrix remodeling
+COL8A1,Matrix remodeling
+COL8A2,Matrix remodeling
+COL9A1,Matrix remodeling
+COL9A2,Matrix remodeling
+COL9A3,Matrix remodeling
+CTRB1,Matrix remodeling
+CTRB2,Matrix remodeling
+CTSB,Matrix remodeling
+CTSD,Matrix remodeling
+CTSG,Matrix remodeling
+CTSK,Matrix remodeling
+CTSL,Matrix remodeling
+CTSS,Matrix remodeling
+CTSV,Matrix remodeling
+DCN,Matrix remodeling
+ELANE,Matrix remodeling
+ELN,Matrix remodeling
+FBN1,Matrix remodeling
+FBN2,Matrix remodeling
+FBN3,Matrix remodeling
+FN1,Matrix remodeling
+FURIN,Matrix remodeling
+HSPG2,Matrix remodeling
+HTRA1,Matrix remodeling
+KLK2,Matrix remodeling
+KLK7,Matrix remodeling
+KLKB1,Matrix remodeling
+LAMA3,Matrix remodeling
+LAMA5,Matrix remodeling
+LAMB1,Matrix remodeling
+LAMB3,Matrix remodeling
+LAMC1,Matrix remodeling
+LAMC2,Matrix remodeling
+MMP1,Matrix remodeling
+MMP10,Matrix remodeling
+MMP11,Matrix remodeling
+MMP12,Matrix remodeling
+MMP13,Matrix remodeling
+MMP14,Matrix remodeling
+MMP15,Matrix remodeling
+MMP16,Matrix remodeling
+MMP17,Matrix remodeling
+MMP19,Matrix remodeling
+MMP2,Matrix remodeling
+MMP20,Matrix remodeling
+MMP24,Matrix remodeling
+MMP25,Matrix remodeling
+MMP3,Matrix remodeling
+MMP7,Matrix remodeling
+MMP8,Matrix remodeling
+MMP9,Matrix remodeling
+NCSTN,Matrix remodeling
+NID1,Matrix remodeling
+OPTC,Matrix remodeling
+PHYKPL,Matrix remodeling
+PLG,Matrix remodeling
+PRSS1,Matrix remodeling
+PRSS2,Matrix remodeling
+PSEN1,Matrix remodeling
+SCUBE1,Matrix remodeling
+SCUBE3,Matrix remodeling
+SPOCK3,Matrix remodeling
+SPP1,Matrix remodeling
+TIMP1,Matrix remodeling
+TIMP2,Matrix remodeling
+TLL1,Matrix remodeling
+TLL2,Matrix remodeling
+TMPRSS6,Matrix remodeling
+TPSAB1,Matrix remodeling
+ACTB,Cell and ECM interactions
+ACTG1,Cell and ECM interactions
+ACTN1,Cell and ECM interactions
+ARHGEF6,Cell and ECM interactions
+FBLIM1,Cell and ECM interactions
+FERMT2,Cell and ECM interactions
+FLNA,Cell and ECM interactions
+FLNC,Cell and ECM interactions
+ILK,Cell and ECM interactions
+ITGB1,Cell and ECM interactions
+LIMS1,Cell and ECM interactions
+LIMS2,Cell and ECM interactions
+PARVA,Cell and ECM interactions
+PARVB,Cell and ECM interactions
+PXN,Cell and ECM interactions
+RSU1,Cell and ECM interactions
+TESK1,Cell and ECM interactions
+VASP,Cell and ECM interactions
+PRF1,Cytolytic activity
+GZMA,Cytolytic activity
+BTLA,Checkpoint molecules
+CD274,Checkpoint molecules
+CTLA4,Checkpoint molecules
+HAVCR2,Checkpoint molecules
+LAG3,Checkpoint molecules
+PDCD1,Checkpoint molecules
+PDCD1LG2,Checkpoint molecules
+TIGIT,Checkpoint molecules
+VSIR,Checkpoint molecules
+C10orf54,Immunostimulator
+CD27,Immunostimulator
+CD276,Immunostimulator
+CD28,Immunostimulator
+CD40,Immunostimulator
+CD40LG,Immunostimulator
+CD48,Immunostimulator
+CD70,Immunostimulator
+CD80,Immunostimulator
+CD86,Immunostimulator
+CXCL12,Immunostimulator
+CXCR4,Immunostimulator
+ENTPD1,Immunostimulator
+HHLA2,Immunostimulator
+ICOS,Immunostimulator
+ICOSLG,Immunostimulator
+IL2RA,Immunostimulator
+IL6,Immunostimulator
+IL6R,Immunostimulator
+KLRC1,Immunostimulator
+KLRK1,Immunostimulator
+LTA,Immunostimulator
+MICB,Immunostimulator
+NT5E,Immunostimulator
+PVR,Immunostimulator
+RAET1E,Immunostimulator
+TMEM173,Immunostimulator
+TMIGD2,Immunostimulator
+TNFRSF13B,Immunostimulator
+TNFRSF13C,Immunostimulator
+TNFRSF14,Immunostimulator
+TNFRSF17,Immunostimulator
+TNFRSF18,Immunostimulator
+TNFRSF25,Immunostimulator
+TNFRSF4,Immunostimulator
+TNFRSF8,Immunostimulator
+TNFRSF9,Immunostimulator
+TNFSF13,Immunostimulator
+TNFSF13B,Immunostimulator
+TNFSF14,Immunostimulator
+TNFSF15,Immunostimulator
+TNFSF18,Immunostimulator
+TNFSF4,Immunostimulator
+TNFSF9,Immunostimulator
+ULBP1,Immunostimulator
+TNF,Antitumor cytokines
+IFNB1,Antitumor cytokines
+IFNA2,Antitumor cytokines
+CCL3,Antitumor cytokines
+TNFSF10,Antitumor cytokines
+IL21,Antitumor cytokines
+IL10,Protumor cytokines
+TGFB1,Protumor cytokines
+TGFB2,Protumor cytokines
+TGFB3,Protumor cytokines
+IL22,Protumor cytokines
+MIF,Protumor cytokines
+IL6,Protumor cytokines
+CCL1,Chemokine
+CCL2,Chemokine
+CCL3,Chemokine
+CCL4,Chemokine
+CCL5,Chemokine
+CCL7,Chemokine
+CCL8,Chemokine
+CCL11,Chemokine
+CCL13,Chemokine
+CCL14,Chemokine
+CCL15,Chemokine
+CCL16,Chemokine
+CCL17,Chemokine
+CCL18,Chemokine
+CCL19,Chemokine
+CCL20,Chemokine
+CCL21,Chemokine
+CCL22,Chemokine
+CCL23,Chemokine
+CCL24,Chemokine
+CCL25,Chemokine
+CCL26,Chemokine
+CCL27,Chemokine
+CCL28,Chemokine
+CX3CL1,Chemokine
+CXCL1,Chemokine
+CXCL2,Chemokine
+CXCL3,Chemokine
+CXCL5,Chemokine
+CXCL6,Chemokine
+CXCL8,Chemokine
+CXCL9,Chemokine
+CXCL10,Chemokine
+CXCL11,Chemokine
+CXCL12,Chemokine
+CXCL13,Chemokine
+CXCL14,Chemokine
+CXCL16,Chemokine
+CXCL17,Chemokine
+XCL1,Chemokine
+XCL2,Chemokine
+CCR1,Chemokine receptor
+CCR2,Chemokine receptor
+CCR3,Chemokine receptor
+CCR4,Chemokine receptor
+CCR5,Chemokine receptor
+CCR6,Chemokine receptor
+CCR7,Chemokine receptor
+CCR8,Chemokine receptor
+CCR9,Chemokine receptor
+CCR10,Chemokine receptor
+CXCR1,Chemokine receptor
+CXCR2,Chemokine receptor
+CXCR3,Chemokine receptor
+CXCR4,Chemokine receptor
+CXCR5,Chemokine receptor
+CXCR6,Chemokine receptor
+XCR1,Chemokine receptor
+CX3CR1,Chemokine receptor
+B2M,MHCI
+HLA-A,MHCI
+HLA-B,MHCI
+HLA-C,MHCI
+NLRC5,MHCI
+TAP1,MHCI
+TAP2,MHCI
+TAPBP,MHCI
+CIITA,MHCII
+HLA-DMA,MHCII
+HLA-DMB,MHCII
+HLA-DPA1,MHCII
+HLA-DPB1,MHCII
+HLA-DQA1,MHCII
+HLA-DQB1,MHCII
+HLA-DRA,MHCII
+HLA-DRB1,MHCII
+C10orf54,APC co inhibition
+CD274,APC co inhibition
+LGALS9,APC co inhibition
+PDCD1LG2,APC co inhibition
+PVRL3,APC co inhibition
+CD40,APC co stimulation
+CD58,APC co stimulation
+CD70,APC co stimulation
+ICOSLG,APC co stimulation
+SLAMF1,APC co stimulation
+TNFSF14,APC co stimulation
+TNFSF15,APC co stimulation
+TNFSF18,APC co stimulation
+TNFSF4,APC co stimulation
+TNFSF8,APC co stimulation
+TNFSF9,APC co stimulation
+DDX4,Type I IFN Reponse
+IFIT1,Type I IFN Reponse
+IFIT2,Type I IFN Reponse
+IFIT3,Type I IFN Reponse
+IRF7,Type I IFN Reponse
+ISG20,Type I IFN Reponse
+MX1,Type I IFN Reponse
+MX2,Type I IFN Reponse
+RSAD2,Type I IFN Reponse
+TNFSF10,Type I IFN Reponse
+GPR146,Type II IFN Reponse
+SELP,Type II IFN Reponse
+AHR,Type II IFN Reponse
+AEBP1,Invasion
+AKR1B1,Invasion
+AMD1,Invasion
+SLC25A5,Invasion
+ATP5PB,Invasion
+BAG1,Invasion
+BGN,Invasion
+C1QB,Invasion
+CALD1,Invasion
+CAPG,Invasion
+CCNE1,Invasion
+CDH11,Invasion
+CKS1B,Invasion
+CKS2,Invasion
+COL1A1,Invasion
+COL1A2,Invasion
+COL3A1,Invasion
+COL5A1,Invasion
+COL5A2,Invasion
+COL6A2,Invasion
+COL6A3,Invasion
+COL10A1,Invasion
+COL11A1,Invasion
+COMP,Invasion
+CSE1L,Invasion
+VCAN,Invasion
+CTSK,Invasion
+DAB2,Invasion
+DDX5,Invasion
+EDNRA,Invasion
+FAP,Invasion
+FBN1,Invasion
+FN1,Invasion
+GNAS,Invasion
+H2AFZ,Invasion
+HMGB2,Invasion
+HNRNPU,Invasion
+HSD17B4,Invasion
+CYR61,Invasion
+INHBA,Invasion
+LAMB1,Invasion
+LAMC1,Invasion
+LGALS1,Invasion
+LOX,Invasion
+LOXL2,Invasion
+LUM,Invasion
+MMP2,Invasion
+MMP11,Invasion
+HNRNPM,Invasion
+NDUFB7,Invasion
+YBX1,Invasion
+PDGFRB,Invasion
+PLAU,Invasion
+PRRX1,Invasion
+PNN,Invasion
+PPIC,Invasion
+PROS1,Invasion
+PSMA2,Invasion
+PSMB4,Invasion
+RGS4,Invasion
+SNAI2,Invasion
+SPOCK1,Invasion
+TGFBI,Invasion
+THBS2,Invasion
+THY1,Invasion
+TNFAIP6,Invasion
+UBE2V2,Invasion
+ADAM12,Invasion
+MFAP5,Invasion
+ITGBL1,Invasion
+TP53I3,Invasion
+NUAK1,Invasion
+HNRNPDL,Invasion
+TXNDC9,Invasion
+LRRC17,Invasion
+IFI30,Invasion
+POSTN,Invasion
+CBX1,Invasion
+NID2,Invasion
+RRAS2,Invasion
+RALY,Invasion
+SEPHS2,Invasion
+HEY1,Invasion
+MXRA5,Invasion
+OLFML2B,Invasion
+TMEM158,Invasion
+WWTR1,Invasion
+GREM1,Invasion
+NOX4,Invasion
+CLEC4A,Invasion
+COPZ2,Invasion
+ASPN,Invasion
+CEMIP,Invasion
+CRISPLD2,Invasion
+TUBB6,Invasion
+LRRC15,Invasion
+TUBB,Invasion
+ACKR3,Metastasis
+AFP,Metastasis
+AGR2,Metastasis
+AKT1,Metastasis
+ALDH1A1,Metastasis
+ANGPTL4,Metastasis
+ANXA1,Metastasis
+ANXA2,Metastasis
+AQP5,Metastasis
+ATF3,Metastasis
+AURKA,Metastasis
+AXL,Metastasis
+B2M,Metastasis
+BMI1,Metastasis
+BMP2,Metastasis
+BRAF,Metastasis
+BSG,Metastasis
+CA9,Metastasis
+CCDC88A,Metastasis
+CCND1,Metastasis
+CCR7,Metastasis
+CD24,Metastasis
+CD274,Metastasis
+CD44,Metastasis
+CDCP1,Metastasis
+CDH17,Metastasis
+CDH2,Metastasis
+CEACAM1,Metastasis
+CEACAM5,Metastasis
+CLIC1,Metastasis
+CRP,Metastasis
+CTGF,Metastasis
+CTNND1,Metastasis
+CTSB,Metastasis
+CTSK,Metastasis
+CTSL,Metastasis
+CTTN,Metastasis
+CXCL12,Metastasis
+CXCL2,Metastasis
+CXCL8,Metastasis
+CXCR2,Metastasis
+CYR61,Metastasis
+DDR2,Metastasis
+EGF,Metastasis
+EGFR,Metastasis
+EGR1,Metastasis
+EPAS1,Metastasis
+EPCAM,Metastasis
+ERBB2,Metastasis
+ERBB3,Metastasis
+ESR1,Metastasis
+ESR2,Metastasis
+EZH2,Metastasis
+EZR,Metastasis
+F2RL1,Metastasis
+FGFR1,Metastasis
+FLOT2,Metastasis
+FLT1,Metastasis
+FLT4,Metastasis
+FN1,Metastasis
+FOXC2,Metastasis
+FOXM1,Metastasis
+GLI1,Metastasis
+HGF,Metastasis
+HIF1A,Metastasis
+HMGA1,Metastasis
+HMGA2,Metastasis
+HPSE,Metastasis
+ID1,Metastasis
+IDO1,Metastasis
+IGF1R,Metastasis
+IGF2BP3,Metastasis
+IL6,Metastasis
+ITGA3,Metastasis
+ITGA5,Metastasis
+ITGA6,Metastasis
+ITGAV,Metastasis
+ITGB1,Metastasis
+ITGB3,Metastasis
+JAG1,Metastasis
+KDR,Metastasis
+KRAS,Metastasis
+KRT19,Metastasis
+L1CAM,Metastasis
+LAMC2,Metastasis
+LASP1,Metastasis
+LGALS3,Metastasis
+LOX,Metastasis
+LOXL2,Metastasis
+MACC1,Metastasis
+MCAM,Metastasis
+MDM2,Metastasis
+MET,Metastasis
+MIF,Metastasis
+MKI67,Metastasis
+MME,Metastasis
+MMP1,Metastasis
+MMP11,Metastasis
+MMP13,Metastasis
+MMP14,Metastasis
+MMP2,Metastasis
+MMP3,Metastasis
+MMP7,Metastasis
+MMP9,Metastasis
+MSN,Metastasis
+MST1R,Metastasis
+MTA1,Metastasis
+MTDH,Metastasis
+MUC1,Metastasis
+MYC,Metastasis
+NEDD9,Metastasis
+NOTCH1,Metastasis
+NTRK2,Metastasis
+PCNA,Metastasis
+PDGFRA,Metastasis
+PDPN,Metastasis
+PIK3CA,Metastasis
+PKM,Metastasis
+PLAU,Metastasis
+PLAUR,Metastasis
+POSTN,Metastasis
+PRKCI,Metastasis
+PROM1,Metastasis
+PSCA,Metastasis
+PTGS2,Metastasis
+PTHLH,Metastasis
+PTK2,Metastasis
+PTP4A3,Metastasis
+PTTG1,Metastasis
+PXN,Metastasis
+RAB25,Metastasis
+RAC1,Metastasis
+RELA,Metastasis
+RHOC,Metastasis
+ROCK1,Metastasis
+S100A4,Metastasis
+SATB1,Metastasis
+SDCBP,Metastasis
+SELE,Metastasis
+SELP,Metastasis
+SLC2A1,Metastasis
+SNAI1,Metastasis
+SNAI2,Metastasis
+SNCG,Metastasis
+SOX4,Metastasis
+SPARC,Metastasis
+SPP1,Metastasis
+SRC,Metastasis
+STAT3,Metastasis
+STMN1,Metastasis
+TERT,Metastasis
+TGFBI,Metastasis
+TGM2,Metastasis
+TIMP1,Metastasis
+TMPRSS4,Metastasis
+TNFSF11,Metastasis
+TYMP,Metastasis
+VCAN,Metastasis
+VEGFA,Metastasis
+VEGFC,Metastasis
+VEGFD,Metastasis
+VIM,Metastasis
+WASF3,Metastasis
+YAP1,Metastasis
+ZEB1,Metastasis
+ZEB2,Metastasis
+AURKA,Proliferation
+AURKB,Proliferation
+BUB1,Proliferation
+CCNB1,Proliferation
+CCND1,Proliferation
+CCNE1,Proliferation
+CDK2,Proliferation
+CETN3,Proliferation
+E2F1,Proliferation
+ESCO2,Proliferation
+MCM2,Proliferation
+MCM6,Proliferation
+MKI67,Proliferation
+MYBL2,Proliferation
+PLK1,Proliferation
+ABL1,Differentiation
+ACVR1,Differentiation
+ADA,Differentiation
+AGT,Differentiation
+AKT1,Differentiation
+ANXA1,Differentiation
+ATOH1,Differentiation
+ATP2B2,Differentiation
+ATP7A,Differentiation
+AXL,Differentiation
+BCL2,Differentiation
+BCL3,Differentiation
+PRDM1,Differentiation
+BMP2,Differentiation
+BMP6,Differentiation
+BRAF,Differentiation
+CASP8,Differentiation
+CAV3,Differentiation
+RUNX2,Differentiation
+RUNX1,Differentiation
+CCNB1,Differentiation
+CD86,Differentiation
+CDK1,Differentiation
+CDC42,Differentiation
+CDH2,Differentiation
+CEBPA,Differentiation
+CEBPB,Differentiation
+CREB1,Differentiation
+MAPK14,Differentiation
+CSF1,Differentiation
+CSF1R,Differentiation
+CSF2,Differentiation
+DRD1,Differentiation
+EDN3,Differentiation
+EDNRB,Differentiation
+EPHA2,Differentiation
+EMX1,Differentiation
+EP300,Differentiation
+ERBB4,Differentiation
+ERCC2,Differentiation
+FGF8,Differentiation
+FGFR1,Differentiation
+FGFR2,Differentiation
+FOXC2,Differentiation
+FLT3LG,Differentiation
+MTOR,Differentiation
+GATA1,Differentiation
+GATA4,Differentiation
+GATA6,Differentiation
+GDNF,Differentiation
+GNAS,Differentiation
+HDAC2,Differentiation
+NCKAP1L,Differentiation
+NRG1,Differentiation
+HHEX,Differentiation
+HIF1A,Differentiation
+HMGB1,Differentiation
+FOXA1,Differentiation
+HOXA5,Differentiation
+IGF1,Differentiation
+IL2,Differentiation
+IL4R,Differentiation
+IL11,Differentiation
+IL12B,Differentiation
+IL15,Differentiation
+ILK,Differentiation
+INSM1,Differentiation
+IRF4,Differentiation
+JAG2,Differentiation
+JUN,Differentiation
+JUNB,Differentiation
+KIT,Differentiation
+LAMB2,Differentiation
+LEP,Differentiation
+LGALS1,Differentiation
+LGALS9,Differentiation
+LHX1,Differentiation
+LIF,Differentiation
+LMNA,Differentiation
+LYN,Differentiation
+SMAD4,Differentiation
+MEF2A,Differentiation
+MEF2C,Differentiation
+KITLG,Differentiation
+MMP14,Differentiation
+MYF5,Differentiation
+MYF6,Differentiation
+MYH9,Differentiation
+MYO7A,Differentiation
+MYOD1,Differentiation
+MYOG,Differentiation
+NFATC2,Differentiation
+NFIB,Differentiation
+NTRK1,Differentiation
+NTRK2,Differentiation
+PAFAH1B1,Differentiation
+PAX2,Differentiation
+PF4,Differentiation
+PITX2,Differentiation
+PLS3,Differentiation
+POU4F3,Differentiation
+PPARG,Differentiation
+MAPK3,Differentiation
+MAP2K1,Differentiation
+PROX1,Differentiation
+PSEN1,Differentiation
+PTGER4,Differentiation
+PTN,Differentiation
+PTPN11,Differentiation
+PTPRZ1,Differentiation
+RAC1,Differentiation
+RAG1,Differentiation
+RB1,Differentiation
+RELB,Differentiation
+RXRA,Differentiation
+CCL19,Differentiation
+SHOX2,Differentiation
+SNAI1,Differentiation
+SOD1,Differentiation
+SOX4,Differentiation
+SOX10,Differentiation
+SOX11,Differentiation
+SP3,Differentiation
+SPI1,Differentiation
+SRF,Differentiation
+STAT5B,Differentiation
+STK11,Differentiation
+SYK,Differentiation
+TAL1,Differentiation
+TGFB2,Differentiation
+TGFBR2,Differentiation
+THRA,Differentiation
+NKX2-1,Differentiation
+TRAF6,Differentiation
+TSC1,Differentiation
+VEGFA,Differentiation
+WNT7A,Differentiation
+WNT8A,Differentiation
+WNT11,Differentiation
+WT1,Differentiation
+ZAP70,Differentiation
+EOMES,Differentiation
+SEMA7A,Differentiation
+TNFSF11,Differentiation
+TP63,Differentiation
+TNFSF9,Differentiation
+FADD,Differentiation
+NRP1,Differentiation
+PROM1,Differentiation
+SLC9A3R1,Differentiation
+ATG5,Differentiation
+SLC4A7,Differentiation
+MAML1,Differentiation
+ZEB2,Differentiation
+TSPAN2,Differentiation
+SEC24B,Differentiation
+BATF,Differentiation
+ZBTB1,Differentiation
+KDM1A,Differentiation
+KDM6B,Differentiation
+HEY2,Differentiation
+SCRIB,Differentiation
+TENM4,Differentiation
+BLOC1S6,Differentiation
+FOXP1,Differentiation
+BMP10,Differentiation
+IL20,Differentiation
+CDON,Differentiation
+WDPCP,Differentiation
+LEF1,Differentiation
+IL23A,Differentiation
+CLIC5,Differentiation
+DLL4,Differentiation
+TMEM100,Differentiation
+MCOLN3,Differentiation
+SOX6,Differentiation
+MESP1,Differentiation
+CYP26B1,Differentiation
+FAM20C,Differentiation
+OVOL2,Differentiation
+SAV1,Differentiation
+SEMA4A,Differentiation
+BCL11B,Differentiation
+NKAP,Differentiation
+PDZD7,Differentiation
+WNT5B,Differentiation
+DCSTAMP,Differentiation
+GDPD5,Differentiation
+SLITRK6,Differentiation
+MYLK3,Differentiation
+TMC1,Differentiation
+OCSTAMP,Differentiation
+IL31RA,Differentiation
+IL23R,Differentiation
+GDF7,Differentiation
+NKX2-3,Differentiation
+STRC,Differentiation
+ARX,Differentiation
+GSX2,Differentiation
+LHFPL5,Differentiation
+ATP11C,Differentiation
+PLIN2,Hypoxia
+ADM,Hypoxia
+ADORA2B,Hypoxia
+AK4,Hypoxia
+ALDOC,Hypoxia
+ANG,Hypoxia
+ATF3,Hypoxia
+BNIP3,Hypoxia
+BNIP3L,Hypoxia
+CA9,Hypoxia
+CA12,Hypoxia
+CAV1,Hypoxia
+CCNG2,Hypoxia
+KLF6,Hypoxia
+DUSP1,Hypoxia
+EFNA1,Hypoxia
+ENO2,Hypoxia
+F3,Hypoxia
+FOS,Hypoxia
+NR3C1,Hypoxia
+GYS1,Hypoxia
+HIF1A,Hypoxia
+HK1,Hypoxia
+HK2,Hypoxia
+HMOX1,Hypoxia
+IGFBP3,Hypoxia
+IL6,Hypoxia
+JUN,Hypoxia
+LDHA,Hypoxia
+LOX,Hypoxia
+MIF,Hypoxia
+MXI1,Hypoxia
+NFIL3,Hypoxia
+P4HA1,Hypoxia
+SERPINE1,Hypoxia
+PAM,Hypoxia
+PDGFB,Hypoxia
+PDK1,Hypoxia
+PFKFB3,Hypoxia
+PFKFB4,Hypoxia
+PFKP,Hypoxia
+PGF,Hypoxia
+PGK1,Hypoxia
+PGM1,Hypoxia
+PLAUR,Hypoxia
+PLOD2,Hypoxia
+PPP1R3C,Hypoxia
+RNASE4,Hypoxia
+SAT1,Hypoxia
+SLC2A1,Hypoxia
+SLC2A3,Hypoxia
+SPAG4,Hypoxia
+STC1,Hypoxia
+TGFBI,Hypoxia
+TPI1,Hypoxia
+VEGFA,Hypoxia
+VLDLR,Hypoxia
+CXCR4,Hypoxia
+PPFIA4,Hypoxia
+BHLHE40,Hypoxia
+KLF7,Hypoxia
+STC2,Hypoxia
+SAP30,Hypoxia
+P4HA2,Hypoxia
+STBD1,Hypoxia
+AKAP12,Hypoxia
+CITED2,Hypoxia
+NDRG1,Hypoxia
+TXNIP,Hypoxia
+ZNF292,Hypoxia
+JMJD6,Hypoxia
+MAFF,Hypoxia
+FAM162A,Hypoxia
+HILPDA,Hypoxia
+ERO1A,Hypoxia
+ANGPTL4,Hypoxia
+DDIT4,Hypoxia
+EGLN1,Hypoxia
+KLHL24,Hypoxia
+TMEM45A,Hypoxia
+KDM3A,Hypoxia
+ZNF395,Hypoxia
+EGLN3,Hypoxia
+ALOX5,Quiescence
+ANXA5,Quiescence
+AREG,Quiescence
+CREM,Quiescence
+CRHBP,Quiescence
+EMP1,Quiescence
+EVI2A,Quiescence
+GBP2,Quiescence
+CXCL1,Quiescence
+CXCL2,Quiescence
+CXCL3,Quiescence
+GUCY1A1,Quiescence
+H1F0,Quiescence
+HBB,Quiescence
+HLX,Quiescence
+IL1B,Quiescence
+CXCL8,Quiescence
+INHBA,Quiescence
+CXCL10,Quiescence
+JUN,Quiescence
+TM4SF1,Quiescence
+MLLT3,Quiescence
+NR4A2,Quiescence
+SERPINB2,Quiescence
+PCDH9,Quiescence
+PMCH,Quiescence
+PTGS2,Quiescence
+PTPRC,Quiescence
+RGS1,Quiescence
+RHAG,Quiescence
+TSPAN31,Quiescence
+CCL8,Quiescence
+CCL19,Quiescence
+CCL20,Quiescence
+CXCL6,Quiescence
+CXCL11,Quiescence
+CXCL5,Quiescence
+TRA2B,Quiescence
+SPTBN1,Quiescence
+SVIL,Quiescence
+TCF7L2,Quiescence
+TFPI,Quiescence
+TGFB1I1,Quiescence
+TPBG,Quiescence
+TNFSF4,Quiescence
+FXR1,Quiescence
+NRIP1,Quiescence
+HIST1H2AC,Quiescence
+HIST2H2BE,Quiescence
+PPFIBP1,Quiescence
+TNFSF10,Quiescence
+IL18R1,Quiescence
+VNN1,Quiescence
+CYTIP,Quiescence
+OPTN,Quiescence
+MPZL2,Quiescence
+CXCL13,Quiescence
+NFAT5,Quiescence
+GLIPR1,Quiescence
+RBPMS,Quiescence
+FNBP1,Quiescence
+MAFF,Quiescence
+TRA2A,Quiescence
+TPSB2,Quiescence
+ZBTB10,Quiescence
+HIST1H2BK,Quiescence
+AFMID,Stemness
+AFP,Stemness
+ANPEP,Stemness
+APC,Stemness
+AQP1,Stemness
+ASCL1,Stemness
+ASCL2,Stemness
+AXIN2,Stemness
+AZGP1,Stemness
+BAZ2B,Stemness
+BMI1,Stemness
+BOC,Stemness
+C6orf62,Stemness
+CA2,Stemness
+CAMK2N1,Stemness
+CCL5,Stemness
+CCND2,Stemness
+CD200,Stemness
+CD24,Stemness
+CD33,Stemness
+CD38,Stemness
+CD44,Stemness
+CDCA7,Stemness
+CDK6,Stemness
+CEBPA,Stemness
+CFTR,Stemness
+CHD7,Stemness
+CORO1C,Stemness
+CXCL2,Stemness
+DBX1,Stemness
+DBX2,Stemness
+DNMT3A,Stemness
+DPP4,Stemness
+EBF1,Stemness
+EEF1A1,Stemness
+EGFR,Stemness
+EIF4B,Stemness
+EMX1,Stemness
+EMX2,Stemness
+ENG,Stemness
+EPHB2,Stemness
+ETS2,Stemness
+ETV1,Stemness
+EVI2A,Stemness
+EZH2,Stemness
+FABP7,Stemness
+FAM84A,Stemness
+FBLIM1,Stemness
+FBXO27,Stemness
+FERMT1,Stemness
+FOXA2,Stemness
+FOXA3,Stemness
+FOXG1,Stemness
+GATA1,Stemness
+GATA2,Stemness
+GATA3,Stemness
+GATA4,Stemness
+GFAP,Stemness
+GFI1,Stemness
+GLI1,Stemness
+GPC3,Stemness
+GPM6A,Stemness
+GPSM2,Stemness
+GPX2,Stemness
+H19,Stemness
+H3F3B,Stemness
+HACD3,Stemness
+HAPLN1,Stemness
+HEPN1,Stemness
+HES1,Stemness
+HNRNPH1,Stemness
+HNRNPL,Stemness
+HOPX,Stemness
+ICAM1,Stemness
+IDH1,Stemness
+IKZF1,Stemness
+IRX3,Stemness
+ITGAM,Stemness
+KDR,Stemness
+KIT,Stemness
+KLK10,Stemness
+KRT14,Stemness
+LATS2,Stemness
+LGR5,Stemness
+LOH12CR2,Stemness
+LRIG1,Stemness
+LY6D,Stemness
+LYZ,Stemness
+MALAT1,Stemness
+MBOAT1,Stemness
+MESP1,Stemness
+MESP2,Stemness
+METTL3,Stemness
+MLLT10,Stemness
+MME,Stemness
+MYB,Stemness
+MYC,Stemness
+NANOG,Stemness
+NCAM1,Stemness
+NEK5,Stemness
+NELL2,Stemness
+NFE2,Stemness
+NFIA,Stemness
+NFIB,Stemness
+NKX2-5,Stemness
+NODAL,Stemness
+NT5E,Stemness
+OLFM4,Stemness
+OPHN1,Stemness
+ORC6,Stemness
+PABPC1,Stemness
+PAX6,Stemness
+POU5F1,Stemness
+PROM1,Stemness
+PTK7,Stemness
+PTMA,Stemness
+PTPRC,Stemness
+PTPRG,Stemness
+PTPRO,Stemness
+PTPRS,Stemness
+PTPRZ1,Stemness
+QPCTL,Stemness
+RAB42,Stemness
+RAMP2-AS1,Stemness
+RBM6,Stemness
+RGMB,Stemness
+RNF43,Stemness
+RUNX1,Stemness
+SET,Stemness
+SLC12A2,Stemness
+SMAD2,Stemness
+SMOC2,Stemness
+SOX1,Stemness
+SOX11,Stemness
+SOX17,Stemness
+SOX2,Stemness
+SOX3,Stemness
+SOX4,Stemness
+SOX9,Stemness
+SPDYE1,Stemness
+SPDYE5,Stemness
+SPHKAP,Stemness
+SRGAP2C,Stemness
+STMN1,Stemness
+STMN2,Stemness
+TAL1,Stemness
+TATDN3,Stemness
+TCF12,Stemness
+TCF4,Stemness
+TDGF1,Stemness
+TFDP2,Stemness
+TFRC,Stemness
+THY1,Stemness
+TNFAIP8L1,Stemness
+TOX3,Stemness
+TRA2A,Stemness
+TSPAN6,Stemness
+UGT8,Stemness
+VEGFA,Stemness
+ZBTB8A,Stemness
+ZNF793,Stemness
+ABCG2,Stemness
+ALDH1A1,Stemness
+ALDH1A3,Stemness
+DNER,Stemness
+MET,Stemness
+APAF1,Apoptosis
+ATF4,Apoptosis
+ATM,Apoptosis
+BAK1,Apoptosis
+BID,Apoptosis
+BOK,Apoptosis
+BRCA2,Apoptosis
+CASP2,Apoptosis
+CASP4,Apoptosis
+CASP9,Apoptosis
+DAPK3,Apoptosis
+DDIT3,Apoptosis
+E2F2,Apoptosis
+EP300,Apoptosis
+GSN,Apoptosis
+IFI16,Apoptosis
+INHBA,Apoptosis
+KRT8,Apoptosis
+LGALS9,Apoptosis
+NFATC4,Apoptosis
+P2RX7,Apoptosis
+PMAIP1,Apoptosis
+POLB,Apoptosis
+PPP2R1B,Apoptosis
+PPP2R5C,Apoptosis
+SORT1,Apoptosis
+SKIL,Apoptosis
+STK3,Apoptosis
+STK4,Apoptosis
+TIMP3,Apoptosis
+TNFRSF1A,Apoptosis
+TNFRSF1B,Apoptosis
+TP53BP2,Apoptosis
+DYRK2,Apoptosis
+CRADD,Apoptosis
+BCL10,Apoptosis
+AIFM1,Apoptosis
+BCL2L11,Apoptosis
+DNM1L,Apoptosis
+BCAP31,Apoptosis
+SIVA1,Apoptosis
+MLLT11,Apoptosis
+RIPK3,Apoptosis
+SNW1,Apoptosis
+PPP1R13B,Apoptosis
+PHLDA3,Apoptosis
+NUPR1,Apoptosis
+BBC3,Apoptosis
+CIDEB,Apoptosis
+TNFRSF21,Apoptosis
+PYCARD,Apoptosis
+CDIP1,Apoptosis
+G0S2,Apoptosis
+SHISA5,Apoptosis
+TNFRSF12A,Apoptosis
+WWOX,Apoptosis
+DDIT4,Apoptosis
+USP28,Apoptosis
+MOAP1,Apoptosis
+AEN,Apoptosis
+TMEM109,Apoptosis
+APOPT1,Apoptosis
+BMF,Apoptosis
+DAB2IP,Apoptosis
+DEDD2,Apoptosis
+ST20,Apoptosis
+BMP2,Inflammation
+CD6,Inflammation
+CEBPB,Inflammation
+CCR7,Inflammation
+CSF1,Inflammation
+F3,Inflammation
+F12,Inflammation
+FCER1G,Inflammation
+B4GALT1,Inflammation
+FFAR2,Inflammation
+CXCL1,Inflammation
+CXCL2,Inflammation
+CXCL3,Inflammation
+ICAM1,Inflammation
+IL1A,Inflammation
+IL1B,Inflammation
+IL6,Inflammation
+CXCL8,Inflammation
+IL12B,Inflammation
+TNFRSF9,Inflammation
+IL18,Inflammation
+CXCL10,Inflammation
+IRAK2,Inflammation
+KLKB1,Inflammation
+NFKB1,Inflammation
+NFKB2,Inflammation
+OLR1,Inflammation
+OSM,Inflammation
+SERPINE1,Inflammation
+MAP2K3,Inflammation
+PTGS2,Inflammation
+PTX3,Inflammation
+REL,Inflammation
+RELA,Inflammation
+RELB,Inflammation
+S100A8,Inflammation
+CCL2,Inflammation
+CCL3,Inflammation
+CCL4,Inflammation
+CCL5,Inflammation
+CCL7,Inflammation
+CCL8,Inflammation
+CCL18,Inflammation
+CCL20,Inflammation
+CCL23,Inflammation
+CXCL6,Inflammation
+CXCL11,Inflammation
+THBS1,Inflammation
+TLR2,Inflammation
+TNF,Inflammation
+TNFSF4,Inflammation
+VCAM1,Inflammation
+WNT5A,Inflammation
+RIPK2,Inflammation
+SPHK1,Inflammation
+CCRL2,Inflammation
+OSMR,Inflammation
+RASGRP1,Inflammation
+TNIP1,Inflammation
+KDM6B,Inflammation
+TLR7,Inflammation
+IL23A,Inflammation
+TNIP2,Inflammation
+ZC3H12A,Inflammation
+CCR2,Inflammation
+ACOD1,Inflammation
+JAG1,Inflammation
+ATP2B1,Inflammation
+CD80,Inflammation
+CD44,Inflammation
+CSF3,Inflammation
+CD55,Inflammation
+EDN1,Inflammation
+EREG,Inflammation
+ACSL1,Inflammation
+FUT4,Inflammation
+GCH1,Inflammation
+GPC3,Inflammation
+IL1R1,Inflammation
+ITGB8,Inflammation
+LIF,Inflammation
+MARCKS,Inflammation
+NFKBIA,Inflammation
+NINJ1,Inflammation
+SERPINB2,Inflammation
+PLAUR,Inflammation
+RGS16,Inflammation
+SDC4,Inflammation
+SLC1A2,Inflammation
+FSCN1,Inflammation
+STAT5A,Inflammation
+TNFAIP2,Inflammation
+BTG2,Inflammation
+FOSL1,Inflammation
+SNN,Inflammation
+PLPP3,Inflammation
+TNFSF9,Inflammation
+IER3,Inflammation
+SLC28A2,Inflammation
+TRIP10,Inflammation
+LITAF,Inflammation
+NAMPT,Inflammation
+KIF1B,Inflammation
+DENND5A,Inflammation
+ICOSLG,Inflammation
+PPP1R15A,Inflammation
+MAFF,Inflammation
+HIPK2,Inflammation
+G0S2,Inflammation
+DRAM1,Inflammation
+TSLP,Inflammation
+RNF144B,Inflammation
+BRCA1,DNA damage
+MRE11,DNA damage
+FOXN3,DNA damage
+HIPK2,DNA damage
+SP100,DNA damage
+PSME4,DNA damage
+RPS6KA6,DNA damage
+TP63,DNA damage
+GTSE1,DNA damage
+PPP2R5C,DNA damage
+TP73,DNA damage
+CNOT4,DNA damage
+DNAJA1,DNA damage
+BAX,DNA damage
+UIMC1,DNA damage
+AURKA,DNA damage
+CNOT3,DNA damage
+PCBP4,DNA damage
+TFAP4,DNA damage
+E2F1,DNA damage
+RGCC,DNA damage
+RBL2,DNA damage
+NBN,DNA damage
+GML,DNA damage
+BABAM1,DNA damage
+CASP2,DNA damage
+CDK5RAP3,DNA damage
+CCND1,DNA damage
+FOXM1,DNA damage
+CDKN1B,DNA damage
+CNOT2,DNA damage
+ING4,DNA damage
+CNOT6,DNA damage
+TFDP2,DNA damage
+NEK11,DNA damage
+PSMD14,DNA damage
+ARID3A,DNA damage
+MAD2L2,DNA damage
+GADD45A,DNA damage
+SYF2,DNA damage
+RPA2,DNA damage
+PLAGL1,DNA damage
+RBBP6,DNA damage
+CDK2,DNA damage
+CDKN1A,DNA damage
+SOX4,DNA damage
+CNOT1,DNA damage
+PRMT1,DNA damage
+BCL2L2,DNA damage
+PCNA,DNA damage
+RBM38,DNA damage
+CCNB1,DNA damage
+TAOK3,DNA damage
+MDM2,DNA damage
+CNOT6L,DNA damage
+BRCA2,DNA damage
+PML,DNA damage
+FANCI,DNA damage
+TP53,DNA damage
+PMAIP1,DNA damage
+CARM1,DNA damage
+DTL,DNA damage
+RPS27A,DNA damage
+CNOT9,DNA damage
+CCNA2,DNA damage
+PLK2,DNA damage
+TNKS1BP1,DNA damage
+RPS3,DNA damage
+ATM,DNA damage
+CHEK1,DNA damage
+HMGA2,DNA damage
+UBC,DNA damage
+CENPJ,DNA damage
+XPC,DNA damage
+CNOT8,DNA damage
+BABAM2,DNA damage
+CDC25C,DNA damage
+CNOT11,DNA damage
+BTG2,DNA damage
+ZNF385A,DNA damage
+USP1,DNA damage
+ABRAXAS1,DNA damage
+RNF168,DNA damage
+SPIDR,DNA damage
+E2F7,DNA damage
+CRADD,DNA damage
+CDK1,DNA damage
+UBB,DNA damage
+TRIAP1,DNA damage
+RAD9A,DNA damage
+KAT5,DNA damage
+PLK3,DNA damage
+ATR,DNA damage
+SFN,DNA damage
+HIC1,DNA damage
+PIDD1,DNA damage
+UBE2N,DNA damage
+NPM1,DNA damage
+CNOT10,DNA damage
+CHEK2,DNA damage
+FOXO4,DNA damage
+MUC1,DNA damage
+BRCC3,DNA damage
+BLM,DNA damage
+TFDP1,DNA damage
+MDM4,DNA damage
+CNOT7,DNA damage
+E2F4,DNA damage
+UBA52,DNA damage
+PRKDC,DNA damage
+RAD52,DNA repair
+POLR2J,DNA repair
+LIG3,DNA repair
+REV3L,DNA repair
+BRCA1,DNA repair
+ERCC1,DNA repair
+MNAT1,DNA repair
+MRE11,DNA repair
+RFC1,DNA repair
+TDP1,DNA repair
+RRM2B,DNA repair
+ERCC8,DNA repair
+RFC2,DNA repair
+POLD1,DNA repair
+NTHL1,DNA repair
+TP53BP1,DNA repair
+POLB,DNA repair
+XRCC1,DNA repair
+XAB2,DNA repair
+POLD3,DNA repair
+XRCC5,DNA repair
+RIF1,DNA repair
+PALB2,DNA repair
+SIRT1,DNA repair
+POLR2E,DNA repair
+POLR2F,DNA repair
+POLE2,DNA repair
+APEX1,DNA repair
+POLI,DNA repair
+POLA1,DNA repair
+POLR2C,DNA repair
+MPG,DNA repair
+NBN,DNA repair
+ERCC2,DNA repair
+POLR2I,DNA repair
+LIG1,DNA repair
+RPA3,DNA repair
+POLD2,DNA repair
+RAD51C,DNA repair
+GTF2H1,DNA repair
+RAD51AP1,DNA repair
+GTF2H3,DNA repair
+RFC5,DNA repair
+FANCE,DNA repair
+RAD50,DNA repair
+OGG1,DNA repair
+FANCL,DNA repair
+MAD2L2,DNA repair
+RPA2,DNA repair
+RAD23B,DNA repair
+POLK,DNA repair
+SMUG1,DNA repair
+WRNIP1,DNA repair
+XRCC3,DNA repair
+MBD4,DNA repair
+POLN,DNA repair
+RPA1,DNA repair
+PCNA,DNA repair
+MUTYH,DNA repair
+RFC3,DNA repair
+CDK7,DNA repair
+CCNH,DNA repair
+DDB2,DNA repair
+REV1,DNA repair
+BRIP1,DNA repair
+XPA,DNA repair
+TDG,DNA repair
+BRCA2,DNA repair
+TP53,DNA repair
+PARP1,DNA repair
+RPS27A,DNA repair
+POLR2D,DNA repair
+FANCD2,DNA repair
+CETN2,DNA repair
+POLR2K,DNA repair
+SSRP1,DNA repair
+ATM,DNA repair
+XRCC4,DNA repair
+CCNO,DNA repair
+XPC,DNA repair
+FANCC,DNA repair
+ERCC3,DNA repair
+POLR2H,DNA repair
+RFC4,DNA repair
+HMGB2,DNA repair
+WRN,DNA repair
+POLL,DNA repair
+ALKBH3,DNA repair
+DDB1,DNA repair
+POLR2G,DNA repair
+FEN1,DNA repair
+UBE2V2,DNA repair
+MGMT,DNA repair
+POLH,DNA repair
+EXO1,DNA repair
+LIG4,DNA repair
+ATR,DNA repair
+POLD4,DNA repair
+ERCC4,DNA repair
+POLE,DNA repair
+TOP3A,DNA repair
+UBE2N,DNA repair
+FANCB,DNA repair
+RAD51B,DNA repair
+FANCF,DNA repair
+RAD51D,DNA repair
+FANCA,DNA repair
+FANCM,DNA repair
+H2AFX,DNA repair
+ALKBH2,DNA repair
+HMGB1,DNA repair
+XRCC6,DNA repair
+XRCC2,DNA repair
+BLM,DNA repair
+GTF2H4,DNA repair
+FANCG,DNA repair
+UBA52,DNA repair
+PRKDC,DNA repair
+GTF2H5,DNA repair
+ANLN,Cell cycle
+ANP32E,Cell cycle
+ATAD2,Cell cycle
+AURKA,Cell cycle
+BRIP1,Cell cycle
+CASP8AP2,Cell cycle
+CBX5,Cell cycle
+CCNA2,Cell cycle
+CCNB2,Cell cycle
+CCND1,Cell cycle
+CCNE1,Cell cycle
+CCNE2,Cell cycle
+CDC25C,Cell cycle
+CDC45,Cell cycle
+CDC6,Cell cycle
+CDCA2,Cell cycle
+CDCA3,Cell cycle
+CDCA8,Cell cycle
+CENPA,Cell cycle
+CENPE,Cell cycle
+CHAF1B,Cell cycle
+CKAP2L,Cell cycle
+CKAP5,Cell cycle
+CKS1B,Cell cycle
+CKS2,Cell cycle
+CLSPN,Cell cycle
+DHFR,Cell cycle
+DLGAP5,Cell cycle
+DSCC1,Cell cycle
+DTL,Cell cycle
+ECT2,Cell cycle
+EXO1,Cell cycle
+FEN1,Cell cycle
+GAS2L3,Cell cycle
+GINS2,Cell cycle
+GTSE1,Cell cycle
+HELLS,Cell cycle
+HJURP,Cell cycle
+HMMR,Cell cycle
+KIF11,Cell cycle
+KIF23,Cell cycle
+KIF2C,Cell cycle
+LBR,Cell cycle
+MCM4,Cell cycle
+MCM5,Cell cycle
+MCM6,Cell cycle
+MKI67,Cell cycle
+NASP,Cell cycle
+NCAPD2,Cell cycle
+NDC80,Cell cycle
+NEK2,Cell cycle
+NUF2,Cell cycle
+NUSAP1,Cell cycle
+PCNA,Cell cycle
+POLA1,Cell cycle
+POLD3,Cell cycle
+PRIM1,Cell cycle
+PSRC1,Cell cycle
+PTTG1,Cell cycle
+RAD21,Cell cycle
+RAD51AP1,Cell cycle
+RANGAP1,Cell cycle
+RFC2,Cell cycle
+RFC4,Cell cycle
+RPA2,Cell cycle
+RRM1,Cell cycle
+RRM2,Cell cycle
+SLBP,Cell cycle
+SMC4,Cell cycle
+TACC3,Cell cycle
+TIPIN,Cell cycle
+TMPO,Cell cycle
+TOP2A,Cell cycle
+TTK,Cell cycle
+TUBB4B,Cell cycle
+TYMS,Cell cycle
+UBR7,Cell cycle
+UHRF1,Cell cycle
+UNG,Cell cycle
+USP1,Cell cycle
+WDR76,Cell cycle
+POLA2,Cell cycle
+GCLM,Cell cycle
+HMGB3,Cell cycle
+DEPDC1B,Cell cycle
+PRR11,Cell cycle
+NUCKS1,Cell cycle
+NUP37,Cell cycle
+UBE2T,Cell cycle
+ORC6,Cell cycle
+CENPM,Cell cycle
+VRK1,Cell cycle
+CDC25B,Cell cycle
+FAM83D,Cell cycle
+ASF1B,Cell cycle
+GRPEL1,Cell cycle
+RFC5,Cell cycle
+SRSF3,Cell cycle
+MND1,Cell cycle
+ZWINT,Cell cycle
+TUBG1,Cell cycle
+ENOSF1,Cell cycle
+RAN,Cell cycle
+RFC3,Cell cycle
+E2F5,Cell cycle
+AKIRIN2,Cell cycle
+TROAP,Cell cycle
+BORA,Cell cycle
+PIF1,Cell cycle
+FANCI,Cell cycle
+LYAR,Cell cycle
+CDCA5,Cell cycle
+DSN1,Cell cycle
+CCNF,Cell cycle
+CDC25A,Cell cycle
+SAP30,Cell cycle
+CDCA7L,Cell cycle
+INTS8,Cell cycle
+MCM7,Cell cycle
+CHAF1A,Cell cycle
+PBK,Cell cycle
+DTYMK,Cell cycle
+APEX2,Cell cycle
+KIF5B,Cell cycle
+SHCBP1,Cell cycle
+ZWILCH,Cell cycle
+KPNA2,Cell cycle
+H2AFX,Cell cycle
+H1F0,Cell cycle
+TUBB,Cell cycle
+HIST1H4C,Cell cycle
+PRC1,Cell cycle
+CENPW,Cell cycle
+MRPS18B,Cell cycle
+MZT1,Cell cycle
+KIFC1,Cell cycle
+KIF22,Cell cycle
+ACVRL1,Angiogenesis
+JAG1,Angiogenesis
+ANGPT1,Angiogenesis
+ANGPT2,Angiogenesis
+CD34,Angiogenesis
+CDC42,Angiogenesis
+MAPK14,Angiogenesis
+TYMP,Angiogenesis
+EDN1,Angiogenesis
+EFNB2,Angiogenesis
+EGR3,Angiogenesis
+EPHB4,Angiogenesis
+PTK2B,Angiogenesis
+FGF2,Angiogenesis
+FGFR1,Angiogenesis
+VEGFD,Angiogenesis
+FOXC2,Angiogenesis
+FLT1,Angiogenesis
+FLT4,Angiogenesis
+FN1,Angiogenesis
+GPLD1,Angiogenesis
+NR4A1,Angiogenesis
+ID1,Angiogenesis
+ITGA5,Angiogenesis
+ITGAV,Angiogenesis
+ITGB1,Angiogenesis
+KDR,Angiogenesis
+LOXL2,Angiogenesis
+MMP14,Angiogenesis
+NOTCH1,Angiogenesis
+PDGFA,Angiogenesis
+PDGFRB,Angiogenesis
+PGF,Angiogenesis
+PIK3CA,Angiogenesis
+PTGS2,Angiogenesis
+PTK2,Angiogenesis
+ROBO1,Angiogenesis
+SHC1,Angiogenesis
+SRF,Angiogenesis
+TAL1,Angiogenesis
+TDGF1,Angiogenesis
+TEK,Angiogenesis
+VAV2,Angiogenesis
+VEGFA,Angiogenesis
+VEGFC,Angiogenesis
+FGF18,Angiogenesis
+NRP1,Angiogenesis
+SEMA5A,Angiogenesis
+RAMP2,Angiogenesis
+CIB1,Angiogenesis
+ESM1,Angiogenesis
+JMJD6,Angiogenesis
+HEY1,Angiogenesis
+ADGRA2,Angiogenesis
+GREM1,Angiogenesis
+SRPX2,Angiogenesis
+SOX18,Angiogenesis
+PARVA,Angiogenesis
+RNF213,Angiogenesis
+E2F8,Angiogenesis
+RSPO3,Angiogenesis
+OTULIN,Angiogenesis
+E2F7,Angiogenesis
+CCBE1,Angiogenesis
+BMPER,Angiogenesis
+NRARP,Angiogenesis
+TNFAIP6,Angiogenesis
+VCAN,Angiogenesis
+SPP1,Angiogenesis
+CCND2,Angiogenesis
+PIK3R1,Angiogenesis
+STC1,Angiogenesis
+JAG2,Angiogenesis
+NDUFAB1,Amino acid
+SLC25A13,Amino acid
+PSMB1,Amino acid
+AASS,Amino acid
+RPS20,Amino acid
+IYD,Amino acid
+SLC6A7,Amino acid
+PSMC4,Amino acid
+CHDH,Amino acid
+CPS1,Amino acid
+SARS1,Amino acid
+OTC,Amino acid
+RPL26L1,Amino acid
+MRI1,Amino acid
+PSMA4,Amino acid
+ALDH18A1,Amino acid
+BCAT1,Amino acid
+RPL18,Amino acid
+OAT,Amino acid
+KARS1,Amino acid
+PSME4,Amino acid
+SLC44A1,Amino acid
+ASNS,Amino acid
+RPL31,Amino acid
+HSD17B10,Amino acid
+ACAT1,Amino acid
+TYR,Amino acid
+NAALAD2,Amino acid
+MCCC1,Amino acid
+DCT,Amino acid
+ARG2,Amino acid
+BCKDHB,Amino acid
+RPS5,Amino acid
+HAL,Amino acid
+FOLH1,Amino acid
+PSMC5,Amino acid
+SMOX,Amino acid
+RPL6,Amino acid
+RPLP0,Amino acid
+DLD,Amino acid
+PSME1,Amino acid
+PHGDH,Amino acid
+PSMD5,Amino acid
+PSMD8,Amino acid
+MTAP,Amino acid
+PRODH,Amino acid
+GCAT,Amino acid
+RPL3,Amino acid
+TXN2,Amino acid
+PSMC6,Amino acid
+PSMA3,Amino acid
+GSTZ1,Amino acid
+PSMC1,Amino acid
+PSMB5,Amino acid
+PSMA6,Amino acid
+PSME2,Amino acid
+PSMA7,Amino acid
+HAO1,Amino acid
+AHCY,Amino acid
+PSMD10,Amino acid
+SMS,Amino acid
+SLC25A15,Amino acid
+PSMD7,Amino acid
+SLC7A5,Amino acid
+CRYM,Amino acid
+BCKDK,Amino acid
+FAH,Amino acid
+OCA2,Amino acid
+PYCR3,Amino acid
+GSR,Amino acid
+CKM,Amino acid
+OAZ1,Amino acid
+IL4I1,Amino acid
+RPS16,Amino acid
+RPS19,Amino acid
+BCAT2,Amino acid
+GCDH,Amino acid
+RPL18A,Amino acid
+SLC5A5,Amino acid
+ETHE1,Amino acid
+OGDH,Amino acid
+HIBADH,Amino acid
+AIMP2,Amino acid
+PSMA2,Amino acid
+TYRP1,Amino acid
+RPL28,Amino acid
+RPL19,Amino acid
+PSMD3,Amino acid
+ASPA,Amino acid
+PSMD11,Amino acid
+RPL34,Amino acid
+AADAT,Amino acid
+SEPSECS,Amino acid
+PDHX,Amino acid
+RPS13,Amino acid
+PSMD9,Amino acid
+DAO,Amino acid
+SLC6A12,Amino acid
+SERINC1,Amino acid
+RPS12,Amino acid
+AGXT2,Amino acid
+RARS1,Amino acid
+HGD,Amino acid
+RPL24,Amino acid
+PSMD14,Amino acid
+RPS15,Amino acid
+GLS,Amino acid
+TPO,Amino acid
+ODC1,Amino acid
+SLC25A12,Amino acid
+DARS1,Amino acid
+KYNU,Amino acid
+RPL22,Amino acid
+SRM,Amino acid
+CTH,Amino acid
+AGMAT,Amino acid
+MTR,Amino acid
+KMO,Amino acid
+RPS25,Amino acid
+ARG1,Amino acid
+DLST,Amino acid
+ALDH6A1,Amino acid
+GOT1,Amino acid
+SLC25A2,Amino acid
+LIAS,Amino acid
+RPL21,Amino acid
+RPL5,Amino acid
+SARDH,Amino acid
+DBH,Amino acid
+AMD1,Amino acid
+MTRR,Amino acid
+RPS10,Amino acid
+GNMT,Amino acid
+EEF1E1,Amino acid
+GOT2,Amino acid
+RPL23,Amino acid
+PSMF1,Amino acid
+PSMB2,Amino acid
+ASL,Amino acid
+ECHS1,Amino acid
+SEM1,Amino acid
+MPST,Amino acid
+TST,Amino acid
+IVD,Amino acid
+PSMA1,Amino acid
+BBOX1,Amino acid
+TPH1,Amino acid
+CDO1,Amino acid
+AANAT,Amino acid
+RPS4Y1,Amino acid
+GAMT,Amino acid
+SAT1,Amino acid
+RPL36,Amino acid
+ASS1,Amino acid
+SLC6A8,Amino acid
+IDO1,Amino acid
+PSME3,Amino acid
+RPL27,Amino acid
+CKMT2,Amino acid
+PDHA1,Amino acid
+MCCC2,Amino acid
+SLC6A11,Amino acid
+SCLY,Amino acid
+EEFSEC,Amino acid
+DDC,Amino acid
+RIDA,Amino acid
+SERINC3,Amino acid
+DMGDH,Amino acid
+BHMT2,Amino acid
+LARS1,Amino acid
+TSHB,Amino acid
+RPS15A,Amino acid
+PSAT1,Amino acid
+SDS,Amino acid
+CGA,Amino acid
+GLS2,Amino acid
+GLUL,Amino acid
+EPRS1,Amino acid
+PSMB7,Amino acid
+RPL35,Amino acid
+GRHPR,Amino acid
+RPS6,Amino acid
+SQOR,Amino acid
+RPLP1,Amino acid
+DUOX1,Amino acid
+KYAT3,Amino acid
+DBT,Amino acid
+RPS24,Amino acid
+PAPSS1,Amino acid
+TPH2,Amino acid
+AMDHD1,Amino acid
+SDSL,Amino acid
+SUOX,Amino acid
+CSAD,Amino acid
+DUOX2,Amino acid
+HDC,Amino acid
+GCSH,Amino acid
+RPL3L,Amino acid
+RPS2,Amino acid
+PNMT,Amino acid
+PSMB6,Amino acid
+RPS11,Amino acid
+RPL13A,Amino acid
+RPL11,Amino acid
+AZIN2,Amino acid
+RPS8,Amino acid
+PSMA5,Amino acid
+ALDH9A1,Amino acid
+OAZ3,Amino acid
+PYCR2,Amino acid
+RPS27A,Amino acid
+LIPT1,Amino acid
+GADL1,Amino acid
+RPL32,Amino acid
+AMT,Amino acid
+ENOPH1,Amino acid
+RPS3A,Amino acid
+RPL37,Amino acid
+BHMT,Amino acid
+PSPH,Amino acid
+RPL10,Amino acid
+RPL7,Amino acid
+AUH,Amino acid
+RPL7A,Amino acid
+GLUD1,Amino acid
+PAOX,Amino acid
+APIP,Amino acid
+RPS3,Amino acid
+FAU,Amino acid
+HNMT,Amino acid
+DLAT,Amino acid
+MAT1A,Amino acid
+ACAD8,Amino acid
+QDPR,Amino acid
+TDO2,Amino acid
+ACMSD,Amino acid
+NMRAL1,Amino acid
+PSMA8,Amino acid
+AZIN1,Amino acid
+CARNMT1,Amino acid
+RPL30,Amino acid
+HPD,Amino acid
+PSMD4,Amino acid
+PSMB4,Amino acid
+ALDH4A1,Amino acid
+UROC1,Amino acid
+CBS,Amino acid
+FTCD,Amino acid
+SLC25A44,Amino acid
+RPL8,Amino acid
+PSMC2,Amino acid
+NAGS,Amino acid
+RPL26,Amino acid
+ASRGL1,Amino acid
+RPL29,Amino acid
+HAAO,Amino acid
+PDHA2,Amino acid
+RPL22L1,Amino acid
+PSMD6,Amino acid
+PPM1K,Amino acid
+RPL9,Amino acid
+RPL39L,Amino acid
+AIMP1,Amino acid
+SLC45A2,Amino acid
+SERINC5,Amino acid
+RPS14,Amino acid
+ALDH7A1,Amino acid
+RPL10L,Amino acid
+RPL36AL,Amino acid
+PSMC3,Amino acid
+GPT2,Amino acid
+CKB,Amino acid
+ASPG,Amino acid
+PCBD1,Amino acid
+RPL27A,Amino acid
+RIMKLB,Amino acid
+NNMT,Amino acid
+MARS1,Amino acid
+RPL13,Amino acid
+GPT,Amino acid
+SRR,Amino acid
+SLC3A2,Amino acid
+RPSA,Amino acid
+PDHB,Amino acid
+SERINC2,Amino acid
+RPS9,Amino acid
+KYAT1,Amino acid
+PAH,Amino acid
+GATM,Amino acid
+RPS21,Amino acid
+RPS7,Amino acid
+QARS1,Amino acid
+AGXT,Amino acid
+CARNS1,Amino acid
+RPL38,Amino acid
+PSMD1,Amino acid
+RPL4,Amino acid
+RPL15,Amino acid
+PSMD2,Amino acid
+PHYKPL,Amino acid
+LIPT2,Amino acid
+PXMP2,Amino acid
+SHMT1,Amino acid
+RIMKLA,Amino acid
+RPLP2,Amino acid
+RPS27,Amino acid
+GLDC,Amino acid
+PIPOX,Amino acid
+SEPHS2,Amino acid
+PSTK,Amino acid
+TH,Amino acid
+OAZ2,Amino acid
+SLC36A4,Amino acid
+NQO1,Amino acid
+DHTKD1,Amino acid
+ADO,Amino acid
+ADI1,Amino acid
+RPS17,Amino acid
+GLUD2,Amino acid
+RPL35A,Amino acid
+PYCR1,Amino acid
+SLC25A21,Amino acid
+SLC25A10,Amino acid
+AFMID,Amino acid
+RPS27L,Amino acid
+PSMD13,Amino acid
+NAT8L,Amino acid
+TMLHE,Amino acid
+RPS23,Amino acid
+SECISBP2,Amino acid
+HYKK,Amino acid
+IDO2,Amino acid
+RPL14,Amino acid
+ACADSB,Amino acid
+IARS1,Amino acid
+ASMT,Amino acid
+PSMD12,Amino acid
+DIO3,Amino acid
+RPS26,Amino acid
+RPL37A,Amino acid
+RPL12,Amino acid
+RPS4X,Amino acid
+HIBCH,Amino acid
+RPL23A,Amino acid
+TXNRD1,Amino acid
+TAT,Amino acid
+PAPSS2,Amino acid
+RPL10A,Amino acid
+RPL39,Amino acid
+DDO,Amino acid
+PSMB8,Amino acid
+PSMB10,Amino acid
+DIO2,Amino acid
+DIO1,Amino acid
+RPS29,Amino acid
+TSTD1,Amino acid
+UBA52,Amino acid
+PSMB11,Amino acid
+CKMT1A,Amino acid
+RPL41,Amino acid
+RPS18,Amino acid
+RPS28,Amino acid
+CKMT1B,Amino acid
+PSMB9,Amino acid
+RPL36A,Amino acid
+INMT,Amino acid
+HOGA1,Amino acid
+BCKDHA,Amino acid
+PRODH2,Amino acid
+RPL17,Amino acid
+CBSL,Amino acid
+PSMB3,Amino acid
+RPS4Y2,Amino acid
+HS3ST1,Carbohydrate
+SLC25A13,Carbohydrate
+ST3GAL1,Carbohydrate
+IDS,Carbohydrate
+DCN,Carbohydrate
+MAN2B2,Carbohydrate
+MDH1,Carbohydrate
+XYLT2,Carbohydrate
+DERA,Carbohydrate
+CD44,Carbohydrate
+B4GALT7,Carbohydrate
+NUP160,Carbohydrate
+CHPF2,Carbohydrate
+VCAN,Carbohydrate
+PHKA2,Carbohydrate
+TPR,Carbohydrate
+HEXB,Carbohydrate
+GYG2,Carbohydrate
+NDC1,Carbohydrate
+GPC1,Carbohydrate
+ST3GAL6,Carbohydrate
+PFKP,Carbohydrate
+PHKA1,Carbohydrate
+PKM,Carbohydrate
+HYAL2,Carbohydrate
+PYGM,Carbohydrate
+NUP133,Carbohydrate
+NDST1,Carbohydrate
+PRKACA,Carbohydrate
+HMMR,Carbohydrate
+ENO1,Carbohydrate
+NUP37,Carbohydrate
+GPC4,Carbohydrate
+PGM1,Carbohydrate
+GCKR,Carbohydrate
+SEH1L,Carbohydrate
+AKR1B1,Carbohydrate
+B4GALT1,Carbohydrate
+SLC9A1,Carbohydrate
+NUP50,Carbohydrate
+XYLB,Carbohydrate
+AAAS,Carbohydrate
+NUP188,Carbohydrate
+SLC25A1,Carbohydrate
+PYGL,Carbohydrate
+PCK2,Carbohydrate
+PYGB,Carbohydrate
+RAE1,Carbohydrate
+PRPS2,Carbohydrate
+PGK1,Carbohydrate
+PHKB,Carbohydrate
+NUP93,Carbohydrate
+HAS3,Carbohydrate
+XYLT1,Carbohydrate
+CEMIP,Carbohydrate
+PPP2CB,Carbohydrate
+MAN2B1,Carbohydrate
+GYS1,Carbohydrate
+GPI,Carbohydrate
+HAS1,Carbohydrate
+PPP2R1A,Carbohydrate
+GAPDHS,Carbohydrate
+GCK,Carbohydrate
+OGN,Carbohydrate
+GALK1,Carbohydrate
+ENO3,Carbohydrate
+SLC25A11,Carbohydrate
+NUP88,Carbohydrate
+NAGLU,Carbohydrate
+ALDOC,Carbohydrate
+MANBA,Carbohydrate
+B3GAT1,Carbohydrate
+ST3GAL4,Carbohydrate
+NUP98,Carbohydrate
+NUP107,Carbohydrate
+GAPDH,Carbohydrate
+TPI1,Carbohydrate
+ENO2,Carbohydrate
+GYS2,Carbohydrate
+DSE,Carbohydrate
+UST,Carbohydrate
+B3GAT2,Carbohydrate
+EPM2A,Carbohydrate
+PPP2R5D,Carbohydrate
+ARSB,Carbohydrate
+GNPDA1,Carbohydrate
+NUP155,Carbohydrate
+PPP2CA,Carbohydrate
+PFKFB4,Carbohydrate
+HYAL1,Carbohydrate
+GBE1,Carbohydrate
+CSPG5,Carbohydrate
+ABCC5,Carbohydrate
+SLC25A12,Carbohydrate
+SDC1,Carbohydrate
+GALE,Carbohydrate
+SLC2A1,Carbohydrate
+B4GALT2,Carbohydrate
+AKR1A1,Carbohydrate
+B4GALT6,Carbohydrate
+PPP1R3C,Carbohydrate
+GOT1,Carbohydrate
+NUP43,Carbohydrate
+B4GALT4,Carbohydrate
+FMOD,Carbohydrate
+HS3ST2,Carbohydrate
+CHST3,Carbohydrate
+PFKFB2,Carbohydrate
+CHPF,Carbohydrate
+SDC4,Carbohydrate
+PCK1,Carbohydrate
+SLC35B3,Carbohydrate
+NUP153,Carbohydrate
+GOT2,Carbohydrate
+HS3ST3B1,Carbohydrate
+NUP85,Carbohydrate
+ST3GAL3,Carbohydrate
+NUP214,Carbohydrate
+OMD,Carbohydrate
+IDUA,Carbohydrate
+NCAN,Carbohydrate
+PGLS,Carbohydrate
+FUT5,Carbohydrate
+FBP2,Carbohydrate
+SLC35D2,Carbohydrate
+G6PC1,Carbohydrate
+CHSY1,Carbohydrate
+NUP210,Carbohydrate
+BCAN,Carbohydrate
+LYVE1,Carbohydrate
+SLC37A2,Carbohydrate
+GNS,Carbohydrate
+CHST5,Carbohydrate
+STAB2,Carbohydrate
+CHST12,Carbohydrate
+NUP42,Carbohydrate
+HS6ST1,Carbohydrate
+ALDOB,Carbohydrate
+PPP2R1B,Carbohydrate
+KHK,Carbohydrate
+GLCE,Carbohydrate
+NDST4,Carbohydrate
+NUP54,Carbohydrate
+PAPSS1,Carbohydrate
+LUM,Carbohydrate
+KERA,Carbohydrate
+NUP58,Carbohydrate
+SORD,Carbohydrate
+MAN2C1,Carbohydrate
+GALNS,Carbohydrate
+G6PC3,Carbohydrate
+PFKL,Carbohydrate
+PGD,Carbohydrate
+HSPG2,Carbohydrate
+PRKACB,Carbohydrate
+PKLR,Carbohydrate
+RPS27A,Carbohydrate
+SLC26A1,Carbohydrate
+MDH2,Carbohydrate
+CHST7,Carbohydrate
+PRPS1,Carbohydrate
+GPC3,Carbohydrate
+CSGALNACT1,Carbohydrate
+TKFC,Carbohydrate
+B3GAT3,Carbohydrate
+ALDOA,Carbohydrate
+UBC,Carbohydrate
+EXT2,Carbohydrate
+G6PC2,Carbohydrate
+PFKM,Carbohydrate
+RANBP2,Carbohydrate
+RPIA,Carbohydrate
+HS2ST1,Carbohydrate
+HS3ST3A1,Carbohydrate
+CHST9,Carbohydrate
+NUP205,Carbohydrate
+SLC26A2,Carbohydrate
+FUT6,Carbohydrate
+HK1,Carbohydrate
+PHKG2,Carbohydrate
+B3GNT7,Carbohydrate
+SEC13,Carbohydrate
+ST3GAL2,Carbohydrate
+SLC35B2,Carbohydrate
+ACAN,Carbohydrate
+B4GALT5,Carbohydrate
+PFKFB1,Carbohydrate
+B4GALT3,Carbohydrate
+ADPGK,Carbohydrate
+HK2,Carbohydrate
+SLC37A1,Carbohydrate
+G6PD,Carbohydrate
+ST6GALNAC6,Carbohydrate
+HK3,Carbohydrate
+HS3ST6,Carbohydrate
+SDC3,Carbohydrate
+B3GALT2,Carbohydrate
+AGL,Carbohydrate
+NUP35,Carbohydrate
+GNPDA2,Carbohydrate
+GLB1L,Carbohydrate
+GYG1,Carbohydrate
+TKT,Carbohydrate
+NDST3,Carbohydrate
+PHKG1,Carbohydrate
+PRKACG,Carbohydrate
+ALDH1A1,Carbohydrate
+HGSNAT,Carbohydrate
+FBP1,Carbohydrate
+PGM2L1,Carbohydrate
+CRYL1,Carbohydrate
+NDST2,Carbohydrate
+B4GALNT2,Carbohydrate
+LALBA,Carbohydrate
+GLYCTK,Carbohydrate
+CHST14,Carbohydrate
+PGM2,Carbohydrate
+SDC2,Carbohydrate
+DCXR,Carbohydrate
+UGP2,Carbohydrate
+CSGALNACT2,Carbohydrate
+GUSB,Carbohydrate
+GLB1,Carbohydrate
+UBB,Carbohydrate
+B3GNT2,Carbohydrate
+PFKFB3,Carbohydrate
+PGK2,Carbohydrate
+HAS2,Carbohydrate
+HS6ST2,Carbohydrate
+FUT3,Carbohydrate
+RBKS,Carbohydrate
+GAA,Carbohydrate
+CHST11,Carbohydrate
+PGAM1,Carbohydrate
+DSEL,Carbohydrate
+B3GALT1,Carbohydrate
+BPGM,Carbohydrate
+FUT9,Carbohydrate
+FUT10,Carbohydrate
+HPSE2,Carbohydrate
+HPSE,Carbohydrate
+CSPG4,Carbohydrate
+PC,Carbohydrate
+B4GAT1,Carbohydrate
+FUT1,Carbohydrate
+CHST2,Carbohydrate
+CHST1,Carbohydrate
+B3GALT6,Carbohydrate
+B3GNT4,Carbohydrate
+FUT2,Carbohydrate
+TALDO1,Carbohydrate
+GPC5,Carbohydrate
+B3GNT3,Carbohydrate
+FUT7,Carbohydrate
+CHST13,Carbohydrate
+SGSH,Carbohydrate
+CHST15,Carbohydrate
+EXT1,Carbohydrate
+BGN,Carbohydrate
+HS3ST4,Carbohydrate
+SLC25A10,Carbohydrate
+GPC6,Carbohydrate
+CHST6,Carbohydrate
+B3GALT5,Carbohydrate
+PGP,Carbohydrate
+HS6ST3,Carbohydrate
+HYAL3,Carbohydrate
+RHD,Carbohydrate
+CHP1,Carbohydrate
+NHLRC1,Carbohydrate
+AGRN,Carbohydrate
+RHCE,Carbohydrate
+PRELP,Carbohydrate
+POM121,Carbohydrate
+FUT4,Carbohydrate
+FUT11,Carbohydrate
+SHPK,Carbohydrate
+RPE,Carbohydrate
+CHSY3,Carbohydrate
+CALM1,Carbohydrate
+PAPSS2,Carbohydrate
+NUP62,Carbohydrate
+GPC2,Carbohydrate
+HEXA,Carbohydrate
+GALT,Carbohydrate
+UBA52,Carbohydrate
+PRPS1L1,Carbohydrate
+RPEL1,Carbohydrate
+B3GALT4,Carbohydrate
+HS3ST5,Carbohydrate
+POM121C,Carbohydrate
+PRKAR2B,Energy
+ABCC8,Energy
+ADIPOR2,Energy
+CACNA2D2,Energy
+MLXIPL,Energy
+GNA15,Energy
+ACSL4,Energy
+GNB5,Energy
+PRKACA,Energy
+ACACB,Energy
+ADCY2,Energy
+GNB1,Energy
+RAPGEF3,Energy
+GNAS,Energy
+GNA11,Energy
+RAPGEF4,Energy
+ITPR3,Energy
+PPP2CB,Energy
+PPP2R1A,Energy
+STX1A,Energy
+PRKAG2,Energy
+MLX,Energy
+PRKAR1A,Energy
+GNB3,Energy
+GLP1R,Energy
+PPP2R5D,Energy
+PPP2CA,Energy
+PRKAR2A,Energy
+GNAI2,Energy
+GNB4,Energy
+GCG,Energy
+RAP1A,Energy
+SLC2A1,Energy
+STK11,Energy
+ADCY7,Energy
+ITPR2,Energy
+ACSL3,Energy
+FFAR1,Energy
+GNG13,Energy
+GNG11,Energy
+GNGT1,Energy
+GNAI1,Energy
+ADCY4,Energy
+SYT5,Energy
+ACLY,Energy
+PRKAB2,Energy
+SNAP25,Energy
+CHRM3,Energy
+CD36,Energy
+STXBP1,Energy
+PPP2R1B,Energy
+PLCB2,Energy
+ADCY3,Energy
+IQGAP1,Energy
+CACNA1A,Energy
+PRKACB,Energy
+PKLR,Energy
+PLCB3,Energy
+ADRA2A,Energy
+ITPR1,Energy
+CACNA1C,Energy
+CYSLTR2,Energy
+PRKCA,Energy
+ADCY8,Energy
+GNA14,Energy
+GNAQ,Energy
+CACNA1D,Energy
+KCNB1,Energy
+PFKFB1,Energy
+ADIPOR1,Energy
+ADCY9,Energy
+GNG3,Energy
+PRKAA2,Energy
+SLC2A2,Energy
+TKT,Energy
+ADCY1,Energy
+PRKACG,Energy
+CACNB2,Energy
+KCNC2,Energy
+GNGT2,Energy
+GNG8,Energy
+CACNB3,Energy
+GNG4,Energy
+AHCYL1,Energy
+FASN,Energy
+KCNS3,Energy
+GNB2,Energy
+GNG12,Energy
+ADCY5,Energy
+GNG5,Energy
+ADCY6,Energy
+GNG7,Energy
+TALDO1,Energy
+KCNG2,Energy
+AKAP5,Energy
+ADIPOQ,Energy
+PLCB1,Energy
+ADRA2C,Energy
+GNG2,Energy
+KCNJ11,Energy
+PRKAR1B,Energy
+CACNA1E,Energy
+AGPAT1,Energy
+VAMP2,Energy
+GNG10,Energy
+INS,Energy
+MARCKS,Energy
+ACACA,Energy
+NFYA,Lipid
+CYP51A1,Lipid
+MTMR7,Lipid
+NDUFAB1,Lipid
+ACSM3,Lipid
+CREBBP,Lipid
+TSPOAP1,Lipid
+PON1,Lipid
+CROT,Lipid
+ABCB4,Lipid
+GDE1,Lipid
+OSBPL7,Lipid
+AGK,Lipid
+ALDH3B1,Lipid
+ARSD,Lipid
+PNPLA4,Lipid
+MED24,Lipid
+STARD3NL,Lipid
+ABHD5,Lipid
+PIK3C2A,Lipid
+MBTPS2,Lipid
+NR1H4,Lipid
+ELOVL5,Lipid
+ALOX5,Lipid
+DPEP1,Lipid
+AGPS,Lipid
+CYP24A1,Lipid
+OSBPL5,Lipid
+ALAS1,Lipid
+NR1H3,Lipid
+AGPAT4,Lipid
+PNPLA6,Lipid
+CYP46A1,Lipid
+PI4K2B,Lipid
+INPP4A,Lipid
+MED17,Lipid
+HEXB,Lipid
+PIK3CB,Lipid
+PLEKHA5,Lipid
+MSMO1,Lipid
+THRAP3,Lipid
+GALC,Lipid
+TBXAS1,Lipid
+ACAA1,Lipid
+ARSF,Lipid
+DGAT2,Lipid
+SPHK2,Lipid
+MED29,Lipid
+AHRR,Lipid
+MTMR1,Lipid
+CTSA,Lipid
+FAR2,Lipid
+ME1,Lipid
+NFYC,Lipid
+ELOVL1,Lipid
+IDI1,Lipid
+PLPP1,Lipid
+ACSL4,Lipid
+RORA,Lipid
+PLA2G10,Lipid
+SLC44A1,Lipid
+GBA2,Lipid
+CHAT,Lipid
+CSNK2A2,Lipid
+OSBPL3,Lipid
+PRKACA,Lipid
+ALDH3A2,Lipid
+SREBF1,Lipid
+ACADVL,Lipid
+ABCB11,Lipid
+PTGS2,Lipid
+MGLL,Lipid
+HACD3,Lipid
+ACAT1,Lipid
+PLD1,Lipid
+ACACB,Lipid
+ACER3,Lipid
+PIK3C3,Lipid
+SYNJ2,Lipid
+OSBPL6,Lipid
+LIPE,Lipid
+FDFT1,Lipid
+LRP2,Lipid
+AACS,Lipid
+SMARCD3,Lipid
+OXCT1,Lipid
+SLC27A5,Lipid
+STARD7,Lipid
+SLCO1A2,Lipid
+NCOA1,Lipid
+HADHA,Lipid
+AKR1B1,Lipid
+CPNE3,Lipid
+DDHD2,Lipid
+HSD17B2,Lipid
+ACOX3,Lipid
+MTMR2,Lipid
+HSD17B14,Lipid
+ACHE,Lipid
+PGS1,Lipid
+LPCAT2,Lipid
+CRLS1,Lipid
+SPTLC1,Lipid
+CERS4,Lipid
+PITPNM2,Lipid
+OSBPL8,Lipid
+PITPNM3,Lipid
+PTGS1,Lipid
+CRAT,Lipid
+ACOT7,Lipid
+SCD,Lipid
+HSD3B7,Lipid
+TECR,Lipid
+MED15,Lipid
+GGT5,Lipid
+GGT1,Lipid
+SLC25A1,Lipid
+PLA2G3,Lipid
+CYP2D6,Lipid
+SBF1,Lipid
+CHKB,Lipid
+MCAT,Lipid
+ARSA,Lipid
+TSPO,Lipid
+MTMR3,Lipid
+PNPLA5,Lipid
+PNPLA3,Lipid
+SLC25A17,Lipid
+EP300,Lipid
+CERK,Lipid
+ABHD4,Lipid
+DDHD1,Lipid
+SPTLC2,Lipid
+LGMN,Lipid
+SLC10A1,Lipid
+CPNE6,Lipid
+SEC23A,Lipid
+TRIB3,Lipid
+CSNK2A1,Lipid
+CDS2,Lipid
+ACOT8,Lipid
+VAPA,Lipid
+LPIN2,Lipid
+STS,Lipid
+TBL1X,Lipid
+ABCD1,Lipid
+BMX,Lipid
+MTMR8,Lipid
+TAZ,Lipid
+PCYT1B,Lipid
+GLA,Lipid
+GDPD3,Lipid
+VAC14,Lipid
+SMPD3,Lipid
+PLA2G15,Lipid
+FA2H,Lipid
+MLYCD,Lipid
+ABCC1,Lipid
+UBE2I,Lipid
+CDIPT,Lipid
+ACSBG1,Lipid
+DECR1,Lipid
+SQLE,Lipid
+MTMR9,Lipid
+ASAH1,Lipid
+LHB,Lipid
+MED25,Lipid
+MED26,Lipid
+PLD3,Lipid
+PIAS4,Lipid
+PRKD2,Lipid
+PLIN3,Lipid
+SULT2A1,Lipid
+PLA2G4C,Lipid
+PLEKHA4,Lipid
+PIK3R2,Lipid
+PIK3CG,Lipid
+PON3,Lipid
+PON2,Lipid
+CAV1,Lipid
+PLEKHA8,Lipid
+MOGAT3,Lipid
+NRF1,Lipid
+AHR,Lipid
+PRKAG2,Lipid
+PTGR1,Lipid
+PIP5K1B,Lipid
+PTGDS,Lipid
+PHYH,Lipid
+CUBN,Lipid
+PLEKHA1,Lipid
+ACBD5,Lipid
+MTMR4,Lipid
+KPNB1,Lipid
+MED13,Lipid
+MED31,Lipid
+HSD17B1,Lipid
+ALOX12,Lipid
+ABCC3,Lipid
+DHRS7B,Lipid
+INPP4B,Lipid
+PPARGC1A,Lipid
+SC5D,Lipid
+OSBP,Lipid
+CPT1A,Lipid
+APOA5,Lipid
+PTPMT1,Lipid
+PITPNM1,Lipid
+CHKA,Lipid
+MVK,Lipid
+PTGES3,Lipid
+CYP27B1,Lipid
+ACSS3,Lipid
+LTA4H,Lipid
+ACAD10,Lipid
+VDR,Lipid
+CHPT1,Lipid
+LPCAT3,Lipid
+SLCO1B3,Lipid
+PPARD,Lipid
+CCNC,Lipid
+MED23,Lipid
+ACOT13,Lipid
+FIG4,Lipid
+FAM120B,Lipid
+HMGCS1,Lipid
+HMGCR,Lipid
+CERT1,Lipid
+ARSB,Lipid
+SEC24A,Lipid
+EHHADH,Lipid
+PCCB,Lipid
+BCHE,Lipid
+SCAP,Lipid
+PIKFYVE,Lipid
+POMC,Lipid
+GPD2,Lipid
+ACADL,Lipid
+PECR,Lipid
+NEU2,Lipid
+FHL2,Lipid
+PRKD3,Lipid
+PLEKHA3,Lipid
+DHCR24,Lipid
+SCP2,Lipid
+MECR,Lipid
+PLA2G4A,Lipid
+HAO2,Lipid
+GNPAT,Lipid
+ACADM,Lipid
+PLA2G2D,Lipid
+HMGCL,Lipid
+PIK3R3,Lipid
+FAAH,Lipid
+HSD11B1,Lipid
+OSBPL9,Lipid
+ESYT2,Lipid
+APOA1,Lipid
+ELOVL4,Lipid
+MED28,Lipid
+RAB14,Lipid
+KDSR,Lipid
+ACOT2,Lipid
+ELOVL3,Lipid
+GPAM,Lipid
+ACAT2,Lipid
+NFYB,Lipid
+EPHX2,Lipid
+PLBD1,Lipid
+FABP3,Lipid
+PIK3CA,Lipid
+OCRL,Lipid
+AKR1D1,Lipid
+ACADS,Lipid
+MED13L,Lipid
+ACOT9,Lipid
+ORMDL2,Lipid
+LPGAT1,Lipid
+G0S2,Lipid
+PLA2G12A,Lipid
+ACSL3,Lipid
+MOGAT1,Lipid
+NCOA3,Lipid
+VAPB,Lipid
+PTGIS,Lipid
+MCEE,Lipid
+MED20,Lipid
+SLC10A2,Lipid
+MBOAT7,Lipid
+INSIG2,Lipid
+MED1,Lipid
+GPCPD1,Lipid
+NR1D1,Lipid
+SGPP1,Lipid
+PLAAT1,Lipid
+PLA2G5,Lipid
+SIN3B,Lipid
+ECHS1,Lipid
+SRD5A3,Lipid
+ORMDL1,Lipid
+SUMF2,Lipid
+PLD2,Lipid
+SLC44A2,Lipid
+SLC27A1,Lipid
+ACSBG2,Lipid
+HELZ2,Lipid
+CYP2E1,Lipid
+PNPLA7,Lipid
+OSBPL2,Lipid
+MED18,Lipid
+HSD17B3,Lipid
+PPT1,Lipid
+HACL1,Lipid
+NR1H2,Lipid
+ACLY,Lipid
+STARD3,Lipid
+PRKAB2,Lipid
+PPARG,Lipid
+HSD17B7,Lipid
+RAN,Lipid
+INPP5K,Lipid
+GPS2,Lipid
+ALDH3B2,Lipid
+LPIN3,Lipid
+TPTE2,Lipid
+CDK8,Lipid
+ALOX5AP,Lipid
+PEMT,Lipid
+PIK3C2B,Lipid
+CSNK1G2,Lipid
+PLAAT4,Lipid
+PLAAT2,Lipid
+MED10,Lipid
+MORC2,Lipid
+ARNTL,Lipid
+SBF2,Lipid
+HSD17B4,Lipid
+MED6,Lipid
+HMGCS2,Lipid
+CEPT1,Lipid
+ARF3,Lipid
+GRHL1,Lipid
+LPIN1,Lipid
+SLCO1B1,Lipid
+CYP2J2,Lipid
+FADS2,Lipid
+CLOCK,Lipid
+CD36,Lipid
+PNPLA8,Lipid
+HILPDA,Lipid
+CGA,Lipid
+B4GALNT1,Lipid
+SMPD2,Lipid
+AGT,Lipid
+CYP27A1,Lipid
+MED4,Lipid
+SMPD4,Lipid
+BAAT,Lipid
+TGS1,Lipid
+FDX1,Lipid
+CYP19A1,Lipid
+SLC44A5,Lipid
+SELENOI,Lipid
+HADHB,Lipid
+CYP1B1,Lipid
+CYP2C9,Lipid
+CYP2C8,Lipid
+CH25H,Lipid
+GPAT3,Lipid
+HADH,Lipid
+SEC24B,Lipid
+PIK3C2G,Lipid
+ETNK1,Lipid
+GLIPR1,Lipid
+GLTP,Lipid
+MTMR6,Lipid
+CERS5,Lipid
+ESYT1,Lipid
+FITM1,Lipid
+PTGR2,Lipid
+SLC27A2,Lipid
+NCOA2,Lipid
+CYP11A1,Lipid
+CYP1A1,Lipid
+CYP1A2,Lipid
+NUDT7,Lipid
+MBTPS1,Lipid
+MED9,Lipid
+NCOR1,Lipid
+DPEP3,Lipid
+PCTP,Lipid
+ARSG,Lipid
+OSBPL1A,Lipid
+PIK3R5,Lipid
+PLPP2,Lipid
+CARM1,Lipid
+PRKACB,Lipid
+CYP4B1,Lipid
+SLC44A3,Lipid
+RGL1,Lipid
+PI4KB,Lipid
+PIP5K1A,Lipid
+CERS2,Lipid
+ARNT,Lipid
+SLC27A3,Lipid
+DEGS1,Lipid
+ARF1,Lipid
+MBOAT2,Lipid
+LBR,Lipid
+ETNK2,Lipid
+PLEKHA6,Lipid
+SUMF1,Lipid
+RAB5A,Lipid
+OSBPL10,Lipid
+PLA1A,Lipid
+SCD5,Lipid
+GC,Lipid
+FABP2,Lipid
+CBR4,Lipid
+SRD5A1,Lipid
+PIK3R1,Lipid
+TNFAIP8,Lipid
+TNFRSF21,Lipid
+MMUT,Lipid
+HMGCLL1,Lipid
+CYP39A1,Lipid
+TIAM2,Lipid
+EBP,Lipid
+AWAT2,Lipid
+NSDHL,Lipid
+STAR,Lipid
+PLIN2,Lipid
+UGCG,Lipid
+MED22,Lipid
+PTGES2,Lipid
+MIGA2,Lipid
+PTGES,Lipid
+IDI2,Lipid
+INPP5E,Lipid
+ANKRD1,Lipid
+CYP17A1,Lipid
+HSD17B12,Lipid
+FADS1,Lipid
+TM7SF2,Lipid
+MTMR12,Lipid
+PIP4K2A,Lipid
+SEC24D,Lipid
+THRSP,Lipid
+MMAA,Lipid
+AKR1C2,Lipid
+ACSL1,Lipid
+OLAH,Lipid
+GPD1L,Lipid
+SAR1B,Lipid
+GGPS1,Lipid
+MED21,Lipid
+ACOXL,Lipid
+PLA2R1,Lipid
+LPCAT1,Lipid
+GDPD1,Lipid
+CERS3,Lipid
+CYP2U1,Lipid
+CDK19,Lipid
+AGPAT5,Lipid
+PI4K2A,Lipid
+DBI,Lipid
+PPARGC1B,Lipid
+MED7,Lipid
+PTDSS1,Lipid
+MED19,Lipid
+SAMD8,Lipid
+CPT2,Lipid
+ARSL,Lipid
+PRXL2B,Lipid
+ABHD3,Lipid
+ESYT3,Lipid
+GDPD5,Lipid
+GPAT4,Lipid
+PLA2G2F,Lipid
+APOA2,Lipid
+SYNJ1,Lipid
+CBR1,Lipid
+PLA2G4D,Lipid
+THEM4,Lipid
+MED8,Lipid
+AGPAT3,Lipid
+LSS,Lipid
+MED27,Lipid
+FDPS,Lipid
+CYP3A4,Lipid
+CYP11B1,Lipid
+PCYT1A,Lipid
+BDH1,Lipid
+FDXR,Lipid
+ACOX1,Lipid
+ALOX15,Lipid
+MED11,Lipid
+NEU3,Lipid
+CYP4A22,Lipid
+ACOT11,Lipid
+PLPP3,Lipid
+PRKAA2,Lipid
+ACP6,Lipid
+MAPKAPK2,Lipid
+SGPP2,Lipid
+HPGDS,Lipid
+TNFAIP8L2,Lipid
+ALPI,Lipid
+PMVK,Lipid
+GLB1L,Lipid
+FABP1,Lipid
+PPM1L,Lipid
+CDS1,Lipid
+PTPN13,Lipid
+ALB,Lipid
+MTMR14,Lipid
+PLB1,Lipid
+LIPH,Lipid
+SGMS2,Lipid
+BDH2,Lipid
+ETNPPL,Lipid
+HPGD,Lipid
+ELOVL7,Lipid
+STARD4,Lipid
+ARSK,Lipid
+ENPP6,Lipid
+ACSL6,Lipid
+FABP7,Lipid
+FABP5,Lipid
+MED30,Lipid
+ABCA1,Lipid
+PRKACG,Lipid
+MID1IP1,Lipid
+SPTSSA,Lipid
+INPPL1,Lipid
+FAAH2,Lipid
+PIP4P1,Lipid
+CYP2C19,Lipid
+HACD1,Lipid
+SGPL1,Lipid
+SMPD1,Lipid
+MOGAT2,Lipid
+PLD4,Lipid
+PLIN1,Lipid
+PEX11A,Lipid
+PIP4K2C,Lipid
+MTMR10,Lipid
+ACSF2,Lipid
+DPEP2,Lipid
+ACAA2,Lipid
+GPX4,Lipid
+MVD,Lipid
+GPD1,Lipid
+ACER1,Lipid
+ANGPTL4,Lipid
+CYP7A1,Lipid
+ECI1,Lipid
+PLAAT5,Lipid
+RAB4A,Lipid
+ACOX2,Lipid
+DEGS2,Lipid
+MFSD2A,Lipid
+GSTM4,Lipid
+PLA2G4F,Lipid
+INPP5D,Lipid
+B3GALNT1,Lipid
+SIN3A,Lipid
+PLEKHA2,Lipid
+AGPAT2,Lipid
+FASN,Lipid
+SERPINA6,Lipid
+FABP6,Lipid
+GLB1,Lipid
+FABP4,Lipid
+NPAS2,Lipid
+HSD17B13,Lipid
+ELOVL6,Lipid
+PLA2G1B,Lipid
+MTM1,Lipid
+PIK3CD,Lipid
+HDAC3,Lipid
+PTEN,Lipid
+CYP4F11,Lipid
+CYP4F22,Lipid
+ORMDL3,Lipid
+MBOAT1,Lipid
+CERS6,Lipid
+SPTLC3,Lipid
+STARD5,Lipid
+ARNT2,Lipid
+ACOT12,Lipid
+PPP1CA,Lipid
+CYP7B1,Lipid
+DHCR7,Lipid
+LCLAT1,Lipid
+ACSM6,Lipid
+ESRRA,Lipid
+ARV1,Lipid
+PHOSPHO1,Lipid
+STARD6,Lipid
+UGT8,Lipid
+PTDSS2,Lipid
+PCCA,Lipid
+MED16,Lipid
+GPX2,Lipid
+SPHK1,Lipid
+CIDEA,Lipid
+ACBD7,Lipid
+HSD11B2,Lipid
+LPCAT4,Lipid
+PLAAT3,Lipid
+ACSF3,Lipid
+RUFY1,Lipid
+SEC24C,Lipid
+ACER2,Lipid
+CHD9,Lipid
+ACOT4,Lipid
+TBL1XR1,Lipid
+GBA,Lipid
+PNPLA2,Lipid
+SLC25A20,Lipid
+CPNE7,Lipid
+CYP11B2,Lipid
+ALOXE3,Lipid
+ALOX12B,Lipid
+ALOX15B,Lipid
+PLD6,Lipid
+TMEM86B,Lipid
+MED14,Lipid
+CYP8B1,Lipid
+MIGA1,Lipid
+ARSJ,Lipid
+PITPNB,Lipid
+ACBD4,Lipid
+ENPP7,Lipid
+SPNS2,Lipid
+TNFAIP8L3,Lipid
+ARSI,Lipid
+DGAT2L6,Lipid
+ACOT1,Lipid
+PRKD1,Lipid
+PLA2G6,Lipid
+MED12,Lipid
+DGAT1,Lipid
+INPP5J,Lipid
+TNFAIP8L1,Lipid
+SP1,Lipid
+PCYT2,Lipid
+CYP2R1,Lipid
+PIP5K1C,Lipid
+CYP4F2,Lipid
+GPAT2,Lipid
+PPP1CC,Lipid
+RXRA,Lipid
+INSIG1,Lipid
+CYP4F8,Lipid
+CYP4F3,Lipid
+PPARA,Lipid
+CYP4A11,Lipid
+AKR1C1,Lipid
+CIDEC,Lipid
+AGMO,Lipid
+PLA2G4E,Lipid
+PLA2G2A,Lipid
+ASAH2,Lipid
+SUMO2,Lipid
+PLA2G2E,Lipid
+MTF1,Lipid
+HACD4,Lipid
+LIPI,Lipid
+AKR1C3,Lipid
+THEM5,Lipid
+PIK3R4,Lipid
+GK2,Lipid
+NCOR2,Lipid
+SPTSSB,Lipid
+GM2A,Lipid
+ACSL5,Lipid
+FITM2,Lipid
+SLC22A5,Lipid
+FABP12,Lipid
+FAR1,Lipid
+PSAP,Lipid
+ELOVL2,Lipid
+HSD17B11,Lipid
+TXNRD1,Lipid
+AKR1C4,Lipid
+NCOA6,Lipid
+ECI2,Lipid
+OXCT2,Lipid
+GK,Lipid
+INPP5F,Lipid
+SREBF2,Lipid
+SGMS1,Lipid
+HSD3B1,Lipid
+HSD3B2,Lipid
+NEU4,Lipid
+AWAT1,Lipid
+HSD17B8,Lipid
+RXRB,Lipid
+AGPAT1,Lipid
+SLC44A4,Lipid
+NEU1,Lipid
+CSNK2B,Lipid
+FABP9,Lipid
+CPT1B,Lipid
+ARSH,Lipid
+ACOT6,Lipid
+TECRL,Lipid
+PLPP6,Lipid
+HACD2,Lipid
+SACM1L,Lipid
+LTC4S,Lipid
+HEXA,Lipid
+PPP1CB,Lipid
+NUDT19,Lipid
+CPNE1,Lipid
+STARD10,Lipid
+PPT2,Lipid
+CERS1,Lipid
+CPTP,Lipid
+AKR1B15,Lipid
+GK3P,Lipid
+ACBD6,Lipid
+CYP21A2,Lipid
+GPX1,Lipid
+ACAD11,Lipid
+UGT1A9,Lipid
+PISD,Lipid
+PI4KA,Lipid
+AMACR,Lipid
+DECR2,Lipid
+PLA2G4B,Lipid
+HTD2,Lipid
+FDX2,Lipid
+TPTE,Lipid
+PIK3R6,Lipid
+PIP4K2B,Lipid
+SRD5A2,Lipid
+ACACA,Lipid
+AK2,Nucleotide
+UPP2,Nucleotide
+TYMP,Nucleotide
+ADSS2,Nucleotide
+CTPS2,Nucleotide
+RRM2B,Nucleotide
+ENTPD2,Nucleotide
+NT5C2,Nucleotide
+CAD,Nucleotide
+AK6,Nucleotide
+UPB1,Nucleotide
+GMPR2,Nucleotide
+SAMHD1,Nucleotide
+DHODH,Nucleotide
+NME3,Nucleotide
+NME4,Nucleotide
+GSR,Nucleotide
+NUDT1,Nucleotide
+IMPDH1,Nucleotide
+AK1,Nucleotide
+LHPP,Nucleotide
+DNPH1,Nucleotide
+AGXT2,Nucleotide
+UMPS,Nucleotide
+DGUOK,Nucleotide
+AMPD2,Nucleotide
+AMPD1,Nucleotide
+NT5C1A,Nucleotide
+GDA,Nucleotide
+NT5C3A,Nucleotide
+NT5C,Nucleotide
+ITPA,Nucleotide
+PAICS,Nucleotide
+PPAT,Nucleotide
+DUT,Nucleotide
+DCTD,Nucleotide
+PUDP,Nucleotide
+UCK1,Nucleotide
+AMPD3,Nucleotide
+NT5E,Nucleotide
+NUDT15,Nucleotide
+TXN,Nucleotide
+GMPR,Nucleotide
+ENTPD1,Nucleotide
+ATIC,Nucleotide
+AK7,Nucleotide
+UCK2,Nucleotide
+GUK1,Nucleotide
+DPYS,Nucleotide
+AK5,Nucleotide
+AK9,Nucleotide
+ADK,Nucleotide
+DCK,Nucleotide
+XDH,Nucleotide
+CDA,Nucleotide
+GART,Nucleotide
+CMPK1,Nucleotide
+AK4,Nucleotide
+GMPS,Nucleotide
+NUDT5,Nucleotide
+AK8,Nucleotide
+HPRT1,Nucleotide
+NUDT13,Nucleotide
+TK2,Nucleotide
+RRM1,Nucleotide
+TK1,Nucleotide
+ENTPD3,Nucleotide
+DTYMK,Nucleotide
+ADAL,Nucleotide
+ADPRM,Nucleotide
+NUDT9,Nucleotide
+CTPS1,Nucleotide
+RRM2,Nucleotide
+GLRX,Nucleotide
+TYMS,Nucleotide
+IMPDH2,Nucleotide
+PFAS,Nucleotide
+DCTPP1,Nucleotide
+UPP1,Nucleotide
+NT5C1B,Nucleotide
+ADSS1,Nucleotide
+ENTPD5,Nucleotide
+DPYD,Nucleotide
+ENTPD8,Nucleotide
+ADA,Nucleotide
+ENTPD4,Nucleotide
+ENTPD6,Nucleotide
+ENTPD7,Nucleotide
+UCKL1,Nucleotide
+TXNRD1,Nucleotide
+NUDT16,Nucleotide
+PNP,Nucleotide
+APRT,Nucleotide
+NT5M,Nucleotide
+NME1,Nucleotide
+ADSL,Nucleotide
+NME2,Nucleotide
+NUDT18,Nucleotide
+NDUFAF7,TCA cycle
+NDUFAB1,TCA cycle
+PDK4,TCA cycle
+PDK2,TCA cycle
+UQCRC1,TCA cycle
+NDUFS1,TCA cycle
+MPC1,TCA cycle
+CS,TCA cycle
+HAGH,TCA cycle
+NDUFB4,TCA cycle
+ME1,TCA cycle
+IDH3G,TCA cycle
+PDK3,TCA cycle
+SDHA,TCA cycle
+ME2,TCA cycle
+L2HGDH,TCA cycle
+NDUFB2,TCA cycle
+PDPR,TCA cycle
+DLD,TCA cycle
+FH,TCA cycle
+ATP5F1D,TCA cycle
+NDUFB7,TCA cycle
+SLC16A8,TCA cycle
+ACO2,TCA cycle
+GSTZ1,TCA cycle
+NDUFAF5,TCA cycle
+IDH3B,TCA cycle
+SLC25A14,TCA cycle
+ETFB,TCA cycle
+OGDH,TCA cycle
+COA1,TCA cycle
+NDUFC1,TCA cycle
+UCP1,TCA cycle
+PDHX,TCA cycle
+NDUFS8,TCA cycle
+ATP5F1B,TCA cycle
+LDHB,TCA cycle
+COX6A1,TCA cycle
+PPARD,TCA cycle
+NNT,TCA cycle
+TIMMDC1,TCA cycle
+NDUFS7,TCA cycle
+COQ10B,TCA cycle
+COX7A2L,TCA cycle
+ATP5PB,TCA cycle
+SDHB,TCA cycle
+NDUFB3,TCA cycle
+NDUFA8,TCA cycle
+DLST,TCA cycle
+NDUFAF4,TCA cycle
+ATP5F1E,TCA cycle
+GLO1,TCA cycle
+NDUFA1,TCA cycle
+DMAC2L,TCA cycle
+COX6B1,TCA cycle
+TRAP1,TCA cycle
+COX7C,TCA cycle
+UQCR11,TCA cycle
+NDUFA5,TCA cycle
+ECSIT,TCA cycle
+NDUFA10,TCA cycle
+COX4I1,TCA cycle
+COX7B,TCA cycle
+NDUFA2,TCA cycle
+PDHA1,TCA cycle
+SCO1,TCA cycle
+COX16,TCA cycle
+LDHA,TCA cycle
+ATP5MC2,TCA cycle
+COQ10A,TCA cycle
+COX5B,TCA cycle
+SUCLA2,TCA cycle
+TACO1,TCA cycle
+NDUFB5,TCA cycle
+NDUFAF1,TCA cycle
+LRPPRC,TCA cycle
+NDUFA9,TCA cycle
+ETFA,TCA cycle
+UQCRC2,TCA cycle
+NDUFB10,TCA cycle
+SLC16A3,TCA cycle
+MPC2,TCA cycle
+SDHC,TCA cycle
+NDUFS6,TCA cycle
+MDH2,TCA cycle
+NDUFB11,TCA cycle
+ADHFE1,TCA cycle
+NDUFB9,TCA cycle
+SURF1,TCA cycle
+DLAT,TCA cycle
+NDUFC2,TCA cycle
+ME3,TCA cycle
+NUBPL,TCA cycle
+ATP5F1A,TCA cycle
+PDK1,TCA cycle
+SLC25A27,TCA cycle
+ATP5MC3,TCA cycle
+ATP5PF,TCA cycle
+SLC16A1,TCA cycle
+NDUFAF6,TCA cycle
+UQCRB,TCA cycle
+NDUFS2,TCA cycle
+ATP5MC1,TCA cycle
+NDUFV3,TCA cycle
+PM20D1,TCA cycle
+PDHA2,TCA cycle
+SUCLG1,TCA cycle
+COX18,TCA cycle
+NDUFAF2,TCA cycle
+NDUFS4,TCA cycle
+UQCRQ,TCA cycle
+COX6C,TCA cycle
+PDP1,TCA cycle
+NDUFB6,TCA cycle
+ATP5F1C,TCA cycle
+NDUFB8,TCA cycle
+COX11,TCA cycle
+IDH3A,TCA cycle
+LDHC,TCA cycle
+LDHAL6A,TCA cycle
+ATP5MG,TCA cycle
+NDUFV1,TCA cycle
+ATP5PD,TCA cycle
+PDHB,TCA cycle
+NDUFS5,TCA cycle
+ATP5ME,TCA cycle
+UQCRFS1,TCA cycle
+NDUFA3,TCA cycle
+TMEM126B,TCA cycle
+ETFDH,TCA cycle
+LDHAL6B,TCA cycle
+CYCS,TCA cycle
+BSG,TCA cycle
+SUCLG2,TCA cycle
+PDP2,TCA cycle
+UQCRH,TCA cycle
+NDUFA11,TCA cycle
+UCP3,TCA cycle
+UCP2,TCA cycle
+COX8A,TCA cycle
+ACAD9,TCA cycle
+NDUFAF3,TCA cycle
+NDUFV2,TCA cycle
+COX14,TCA cycle
+COX5A,TCA cycle
+CYC1,TCA cycle
+FAHD1,TCA cycle
+D2HGDH,TCA cycle
+IDH2,TCA cycle
+NDUFB1,TCA cycle
+UQCR10,TCA cycle
+NDUFA12,TCA cycle
+TMEM186,TCA cycle
+NDUFA6,TCA cycle
+NDUFA13,TCA cycle
+RXRA,TCA cycle
+NDUFA4,TCA cycle
+MT-ND6,TCA cycle
+MT-CO2,TCA cycle
+MT-CYB,TCA cycle
+MT-ND2,TCA cycle
+MT-ND5,TCA cycle
+MT-CO1,TCA cycle
+MT-ND3,TCA cycle
+MT-ND4,TCA cycle
+MT-ND1,TCA cycle
+MT-ATP6,TCA cycle
+MT-CO3,TCA cycle
+COX20,TCA cycle
+SDHD,TCA cycle
+VDAC1,TCA cycle
+NDUFS3,TCA cycle
+MT-ATP8,TCA cycle
+COX19,TCA cycle
+ATP5MF,TCA cycle
+ATP5PO,TCA cycle
+NDUFA7,TCA cycle
+SCO2,TCA cycle
+CD38,Vitamin cofactor
+NADK,Vitamin cofactor
+PRSS3,Vitamin cofactor
+RETSAT,Vitamin cofactor
+SLC2A3,Vitamin cofactor
+GPC1,Vitamin cofactor
+GSTO2,Vitamin cofactor
+MTHFD2,Vitamin cofactor
+COASY,Vitamin cofactor
+RDH11,Vitamin cofactor
+PTGS2,Vitamin cofactor
+MOCOS,Vitamin cofactor
+SLC46A1,Vitamin cofactor
+ACACB,Vitamin cofactor
+GPC4,Vitamin cofactor
+NMRK2,Vitamin cofactor
+MCCC1,Vitamin cofactor
+HSP90AA1,Vitamin cofactor
+LRP2,Vitamin cofactor
+APOB,Vitamin cofactor
+COQ9,Vitamin cofactor
+SLC23A2,Vitamin cofactor
+CYB5R3,Vitamin cofactor
+MTHFD1,Vitamin cofactor
+SLC52A3,Vitamin cofactor
+ACP5,Vitamin cofactor
+PARP4,Vitamin cofactor
+ABCC1,Vitamin cofactor
+QPRT,Vitamin cofactor
+NAMPT,Vitamin cofactor
+NMRK1,Vitamin cofactor
+CUBN,Vitamin cofactor
+PNPO,Vitamin cofactor
+BST1,Vitamin cofactor
+APOA4,Vitamin cofactor
+APOC3,Vitamin cofactor
+COQ5,Vitamin cofactor
+VNN1,Vitamin cofactor
+VNN2,Vitamin cofactor
+NUDT12,Vitamin cofactor
+PCCB,Vitamin cofactor
+RBP2,Vitamin cofactor
+RBP1,Vitamin cofactor
+SDC1,Vitamin cofactor
+SPR,Vitamin cofactor
+MTR,Vitamin cofactor
+SLC2A1,Vitamin cofactor
+SLC19A2,Vitamin cofactor
+APOA1,Vitamin cofactor
+TTR,Vitamin cofactor
+ABCD4,Vitamin cofactor
+COQ6,Vitamin cofactor
+PANK3,Vitamin cofactor
+MTHFD1L,Vitamin cofactor
+PDZD11,Vitamin cofactor
+UBIAD1,Vitamin cofactor
+LRAT,Vitamin cofactor
+SLC25A16,Vitamin cofactor
+LRP1,Vitamin cofactor
+SDC4,Vitamin cofactor
+PTGIS,Vitamin cofactor
+MOCS3,Vitamin cofactor
+MTRR,Vitamin cofactor
+MOCS1,Vitamin cofactor
+SLC25A19,Vitamin cofactor
+PANK2,Vitamin cofactor
+PPCS,Vitamin cofactor
+LDLR,Vitamin cofactor
+APOE,Vitamin cofactor
+MCCC2,Vitamin cofactor
+GCH1,Vitamin cofactor
+COQ3,Vitamin cofactor
+SLC52A1,Vitamin cofactor
+MMACHC,Vitamin cofactor
+CBLIF,Vitamin cofactor
+TCN1,Vitamin cofactor
+RFK,Vitamin cofactor
+NT5E,Vitamin cofactor
+BCO1,Vitamin cofactor
+SLC19A3,Vitamin cofactor
+ALDH1L2,Vitamin cofactor
+MTHFS,Vitamin cofactor
+FPGS,Vitamin cofactor
+ENPP2,Vitamin cofactor
+CLPS,Vitamin cofactor
+TTPA,Vitamin cofactor
+PARP6,Vitamin cofactor
+GCHFR,Vitamin cofactor
+SLC5A6,Vitamin cofactor
+RBP4,Vitamin cofactor
+AOX1,Vitamin cofactor
+IDH1,Vitamin cofactor
+PARP9,Vitamin cofactor
+PARP16,Vitamin cofactor
+PPCDC,Vitamin cofactor
+PRKG2,Vitamin cofactor
+MMAB,Vitamin cofactor
+AKT1,Vitamin cofactor
+HSPG2,Vitamin cofactor
+ALDH1L1,Vitamin cofactor
+MMUT,Vitamin cofactor
+GPC3,Vitamin cofactor
+LRP12,Vitamin cofactor
+NAPRT,Vitamin cofactor
+PDSS1,Vitamin cofactor
+GSTO1,Vitamin cofactor
+AASDHPPT,Vitamin cofactor
+PTS,Vitamin cofactor
+MMAA,Vitamin cofactor
+PARP8,Vitamin cofactor
+NADK2,Vitamin cofactor
+PANK1,Vitamin cofactor
+ENPP3,Vitamin cofactor
+NMNAT2,Vitamin cofactor
+LRP8,Vitamin cofactor
+PANK4,Vitamin cofactor
+APOA2,Vitamin cofactor
+HLCS,Vitamin cofactor
+PDXK,Vitamin cofactor
+FLAD1,Vitamin cofactor
+CTRC,Vitamin cofactor
+SDC3,Vitamin cofactor
+NAXE,Vitamin cofactor
+MTHFD2L,Vitamin cofactor
+PLB1,Vitamin cofactor
+NMNAT3,Vitamin cofactor
+MOCS2,Vitamin cofactor
+PDSS2,Vitamin cofactor
+NOS3,Vitamin cofactor
+SLC25A32,Vitamin cofactor
+FOLR2,Vitamin cofactor
+AMN,Vitamin cofactor
+CYB5A,Vitamin cofactor
+NNMT,Vitamin cofactor
+COQ7,Vitamin cofactor
+VKORC1,Vitamin cofactor
+CD320,Vitamin cofactor
+LMBRD1,Vitamin cofactor
+MMADHC,Vitamin cofactor
+CTRB1,Vitamin cofactor
+CTRB2,Vitamin cofactor
+SDC2,Vitamin cofactor
+FASN,Vitamin cofactor
+BTD,Vitamin cofactor
+SLC23A1,Vitamin cofactor
+GPHN,Vitamin cofactor
+NADSYN1,Vitamin cofactor
+SLC22A13,Vitamin cofactor
+COQ2,Vitamin cofactor
+PARP14,Vitamin cofactor
+PC,Vitamin cofactor
+NMNAT1,Vitamin cofactor
+SLC19A1,Vitamin cofactor
+PCCA,Vitamin cofactor
+LPL,Vitamin cofactor
+PNLIP,Vitamin cofactor
+SHMT1,Vitamin cofactor
+MTHFR,Vitamin cofactor
+PARP10,Vitamin cofactor
+DHFR2,Vitamin cofactor
+GPC5,Vitamin cofactor
+CYP8B1,Vitamin cofactor
+SHMT2,Vitamin cofactor
+GPC6,Vitamin cofactor
+RNLS,Vitamin cofactor
+TCN2,Vitamin cofactor
+SLC52A2,Vitamin cofactor
+AKR1C1,Vitamin cofactor
+AGRN,Vitamin cofactor
+AKR1C3,Vitamin cofactor
+TPK1,Vitamin cofactor
+VKORC1L1,Vitamin cofactor
+LRP10,Vitamin cofactor
+BCO2,Vitamin cofactor
+ENPP1,Vitamin cofactor
+AKR1B10,Vitamin cofactor
+AKR1C4,Vitamin cofactor
+CALM1,Vitamin cofactor
+APOM,Vitamin cofactor
+PRSS1,Vitamin cofactor
+GPC2,Vitamin cofactor
+NAXD,Vitamin cofactor
+DHFR,Vitamin cofactor
+APOC2,Vitamin cofactor
+NFS1,Vitamin cofactor
+SLC5A8,Vitamin cofactor
+THTPA,Vitamin cofactor
+GPIHBP1,Vitamin cofactor
+ACACA,Vitamin cofactor
